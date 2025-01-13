@@ -1,0 +1,4 @@
+https://huggingface.co/bartowski/Qwen2.5-32B-AGI-GGUF/resolve/main/Qwen2.5-32B-AGI-IQ2_S.gguf
+https://hf-mirror.com/TheBloke/CausalLM-14B-GGUF/resolve/main/causallm_14b.Q5_0.gguf?download=true
+https://hf-mirror.com/TheBloke/CausalLM-14B-GGUF/resolve/main/causallm_14b.Q5_1.gguf?download=true
+https://hf-mirror.com/bartowski/Qwen2.5-32B-AGI-GGUF/resolve/main/Qwen2.5-32B-AGI-IQ2_M.gguf?download=true

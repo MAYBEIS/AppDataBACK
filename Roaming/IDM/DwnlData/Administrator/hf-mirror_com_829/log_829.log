@@ -1,0 +1,666 @@
+Folder C:\Users\Administrator.DESKTOP-L8LTP8H\AppData\Roaming\IDM\DwnlData\Administrator\hf-mirror_com_829\ was created.
+重建已下载的文件块...
+正在连接中...
+Windows 10.0
+v6.42b8   Time: Sun Dec 01 20:42:22.860 2024 (1733056942 sec)
+owp 
+Url https://hf-mirror.com/TheBloke/CausalLM-14B-GGUF/resolve/main/causallm_14b.Q5_0.gguf?download=true
+User : anonymous, password :xxx
+Downloading via proxy server 127.0.0.1:7890
+EM = 0x7278e2e0, 0x7278e2e0,
+DM = 0x7278e340, 0x7278e340.
+C0:正在连接...
+C0:Checking connect, socket = 4256 
+C0:连接成功。
+C0:HTTP/1.1 200 Connection established
+C0:
+C0:169 bytes of handshake (2) data sent
+C0:2226 bytes of handshake data received (L711)
+C0:93 bytes of handshake (4) data sent
+C0:187 bytes of handshake data received (L711)
+C0:InitializeSecurityContext (2) ret=0x0
+C0:Handshake was successful
+C0:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+C0:发送获取 (GET) 命令...
+C0:SC step1, Time: 1733056943.478
+C0:SC step12, Time: 1733056943.478
+C0:SC step16, Time: 1733056943.478, cookies: NULL
+C0:Header: 13, Trailer: 16, MaxMessage: 16384
+C0:375 bytes of request sent
+C0:HTTP/1.1 302 Found
+C0:Accept-Ranges: bytes
+C0:Access-Control-Allow-Origin: https://hf-mirror.com
+C0:Access-Control-Expose-Headers: X-Repo-Commit,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range
+C0:Alt-Svc: h3=":443"; ma=2592000
+C0:Cache-Control: public, max-age=259200
+C0:Content-Length: 1134
+C0:Content-Type: text/plain; charset=utf-8
+C0:Cross-Origin-Opener-Policy: same-origin
+C0:Date: Sun, 01 Dec 2024 12:42:24 GMT
+Location: https://cdn-lfs-us-1.hf-mirror.com/repos/1f/e4/1fe49095e1d07437fb92374e7a162804dd82d9b59575e9efd7d46e24fe262fb3/de244bd7911d75bae3481c98d810d54a29af7d86e3f5198258ae96ff00136994?response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27causallm_14b.Q5_0.gguf%3B+filename%3D%22causallm_14b.Q5_0.gguf%22%3B&Expires=1733316144&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMzMxNjE0NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzFmL2U0LzFmZTQ5MDk1ZTFkMDc0MzdmYjkyMzc0ZTdhMTYyODA0ZGQ4MmQ5YjU5NTc1ZTllZmQ3ZDQ2ZTI0ZmUyNjJmYjMvZGUyNDRiZDc5MTFkNzViYWUzNDgxYzk4ZDgxMGQ1NGEyOWFmN2Q4NmUzZjUxOTgyNThhZTk2ZmYwMDEzNjk5ND9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=MsBW61Y12isebuplub7VfAU7TImu0uFNIEpsybl6dHS0nco5On%7EwwqX2s%7EKfc%7EjHMH3vZBbPN9lkc7r3D8ZWBuB900BAUyvsyheaPHesWI8pY9klzVUtVhDgkHEX5f1fsqNS0HEacMhGtf5jeMz-V6Asq05WY2iq0ObUbFdUvQu5D31WZ10iNrzAfbxEa%7E5x3JhV6YRKKUe3FFJU%7EjqlAt3wD2FCigGaftCr9wAisH6uixWYo9RqAfZkmJMCk8P69v8It-unNbMcpK-Xs2qGTsOYvEQyfjmPzWB2fqd7aF%7E7UjjqJAOwjAnM%7EHIIfV0W7jd%7EgCp0dln24sr2CvJcmg__&Key-Pair-Id=K24J24Z295AEI9
+C0:Referrer-Policy: strict-origin-when-cross-origin
+C0:Server: hf-mirror
+C0:Vary: Origin, Accept
+C0:Via: 1.1 bcd029057b4428e510e0523b4e526880.cloudfront.net (CloudFront)
+C0:X-Amz-Cf-Id: q5OcxW1ZED2Mwe_f2JQUnR_6gd5824AK9fc7maefaYB9FtYeAEO-1w==
+C0:X-Amz-Cf-Pop: NRT12-P2
+C0:X-Cache: Miss from cloudfront
+C0:X-Linked-Etag: "de244bd7911d75bae3481c98d810d54a29af7d86e3f5198258ae96ff00136994"
+C0:X-Linked-Size: 9850010272
+C0:X-Powered-By: huggingface-moon
+C0:X-Repo-Commit: fe9e233d83851a081204be55a8812bb4af1da2f9
+C0:X-Request-Id: Root=1-674c59b0-4ec6319769fd46d06cccdefa
+C0:
+C0:The server sent new location and new filename
+/* Old URL: hf-mirror.com/TheBloke/CausalLM-14B-GGUF/resolve/main/causallm_14b.Q5_0.gguf?download=true */
+C0:Sending Close Notify
+C0:断开。
+C0:正在连接...
+C0:Checking connect, socket = 4256 
+C0:连接成功。
+C0:HTTP/1.1 200 Connection established
+C0:
+C0:182 bytes of handshake (2) data sent
+C0:2732 bytes of handshake data received (L711)
+C0:93 bytes of handshake (4) data sent
+C0:258 bytes of handshake data received (L711)
+C0:InitializeSecurityContext (2) ret=0x0
+C0:Handshake was successful
+C0:发送获取 (GET) 命令...
+C0:SC step1, Time: 1733056944.292
+C0:Header: 13, Trailer: 16, MaxMessage: 16384
+C0:1464 bytes of request sent
+C0:HTTP/1.1 200 OK
+C0:Date: Sun, 01 Dec 2024 12:42:25 GMT
+C0:Content-Type: binary/octet-stream
+C0:Content-Length: 9850010272
+C0:Connection: keep-alive
+C0:CF-Ray: 8eb328348a02ce39-SIN
+C0:CF-Cache-Status: DYNAMIC
+C0:Accept-Ranges: bytes
+C0:Access-Control-Allow-Origin: *
+C0:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C0:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C0:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C0:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C0:Via: 1.1 d5f29441dead372cd342d7cb881976ce.cloudfront.net (CloudFront)
+C0:access-control-allow-methods: GET, HEAD, PUT
+C0:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C0:access-control-max-age: 3000
+C0:content-security-policy: default-src 'none'; sandbox
+C0:x-amz-cf-id: 1krIOO-zDdb-jDRIdNOWU0jFvxWEZJOfiLSFSHd6ese240pMgf5CeQ==
+C0:x-amz-cf-pop: SIN52-P1
+C0:x-amz-server-side-encryption: AES256
+C0:x-amz-storage-class: INTELLIGENT_TIERING
+C0:x-amz-version-id: null
+C0:x-cache: Miss from cloudfront
+C0:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=RW7dz0IABgZqcjg7mSlMYv%2BDsKozzMShURvmUdmwaC7pTlsuZa%2BL4p2B%2BfXNQtBJvsgQaXiQcYOr%2FI2vtyEoTN2blEsl%2FwnhEpD2orrd9JETGVI1oGBf4suG1XTm%2BD4lwdA9gsM1mUMG%2FReLZA%3D%3D"}],"group":"cf-nel","max_age":604800}
+C0:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C0:Server: cloudflare
+C0:alt-svc: h3=":443"; ma=86400
+C0:server-timing: cfL4;desc="?proto=TCP&rtt=774&min_rtt=741&rtt_var=228&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2990&recv_bytes=1739&delivery_rate=3908232&cwnd=252&unsent_bytes=0&cid=3510f758da56ff81&ts=649&x=0"
+C0:
+C0:Time: 1733056944.833
+C0:正在接收数据...
+Time: 1733056944.835
+可选连接，正在连接...
+C1:正在连接...
+time 1733056944
+time 1733056944
+正在接收数据...
+C1:HTTP/1.1 200 Connection established
+C1:
+C1:182 bytes of handshake (2) data sent
+C1:2733 bytes of handshake data received
+C1:93 bytes of handshake data sent
+C1:258 bytes of handshake data received
+C1:Handshake was successful
+C1:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 1, startPos 5224340, nextID -1
+Updating record with num 0: set ID 0, startPos 0, nextID 1
+C1:发送获取 (GET) 命令...
+C1:SC step1, Time: 1733056945.479
+C1:5224340-9850010271, 5224340-9850010271
+C1:Header: 13, Trailer: 16, MaxMessage: 16384
+C1:1497 bytes of request sent
+C1:HTTP/1.1 206 Partial Content
+C1:Date: Sun, 01 Dec 2024 12:42:26 GMT
+C1:Content-Type: binary/octet-stream
+C1:Content-Length: 9844785932
+C1:Connection: keep-alive
+C1:Content-Range: bytes 5224340-9850010271/9850010272
+C1:CF-Ray: 8eb3283c2ab75f75-SIN
+C1:CF-Cache-Status: DYNAMIC
+C1:Accept-Ranges: bytes
+C1:Access-Control-Allow-Origin: *
+C1:Age: 1
+C1:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C1:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C1:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C1:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C1:Via: 1.1 93e35c9dc15bc1e4c4e3a051603e3c20.cloudfront.net (CloudFront)
+C1:access-control-allow-methods: GET, HEAD, PUT
+C1:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C1:access-control-max-age: 3000
+C1:content-security-policy: default-src 'none'; sandbox
+C1:x-amz-cf-id: XftYto3QDJoLo5XWaImtn4_j5venV4n8Neo-h5RSjvfqvkdpgk0FEw==
+C1:x-amz-cf-pop: HKG1-P1
+C1:x-amz-server-side-encryption: AES256
+C1:x-amz-storage-class: INTELLIGENT_TIERING
+C1:x-amz-version-id: null
+C1:x-cache: Hit from cloudfront
+C1:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IsTriJUXufs6hMYoeudLFgStZql2CkntvJr9R%2BppAqHHRSRadwBWoOmVeA%2Bx8eOTUjcgWQ4bX%2BwJgSIEe7W5R7ns1Ld9T7d04xw1E%2FVm6jCE1%2B9Sikr21qCrVmldWKvoJurS1IkNrzxjjywgfw%3D%3D"}],"group":"cf-nel","max_age":604800}
+C1:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C1:Server: cloudflare
+C1:alt-svc: h3=":443"; ma=86400
+C1:server-timing: cfL4;desc="?proto=TCP&rtt=882&min_rtt=836&rtt_var=318&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2991&recv_bytes=1772&delivery_rate=2339256&cwnd=252&unsent_bytes=0&cid=9f19d69ed23aa2fb&ts=592&x=0"
+C1:
+C1:正在接收数据...
+C2:正在连接...
+C3:正在连接...
+C2:HTTP/1.1 200 Connection established
+C2:
+C2:182 bytes of handshake (2) data sent
+C3:HTTP/1.1 200 Connection established
+C3:
+C3:182 bytes of handshake (2) data sent
+C0:正在接收数据...
+C1:正在接收数据...
+C2:2733 bytes of handshake data received
+C2:93 bytes of handshake data sent
+C3:2734 bytes of handshake data received
+C3:93 bytes of handshake data sent
+C2:258 bytes of handshake data received
+C2:Handshake was successful
+C2:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 2, startPos 4927910185, nextID -1
+Updating record with num 1: set ID 1, startPos 5224340, nextID 2
+C2:发送获取 (GET) 命令...
+C2:SC step1, Time: 1733056946.573
+C2:4927910185-9850010271, 4927910185-9850010271
+C2:Header: 13, Trailer: 16, MaxMessage: 16384
+C2:1500 bytes of request sent
+C3:258 bytes of handshake data received
+C3:Handshake was successful
+C3:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 3, startPos 7388960228, nextID -1
+Updating record with num 2: set ID 2, startPos 4927910185, nextID 3
+C3:发送获取 (GET) 命令...
+C3:SC step1, Time: 1733056946.578
+C3:7388960228-9850010271, 7388960228-9850010271
+C3:Header: 13, Trailer: 16, MaxMessage: 16384
+C3:1500 bytes of request sent
+time 1733056947, speed 1845697, downl 4193090 Bytes
+C3:HTTP/1.1 206 Partial Content
+C3:Date: Sun, 01 Dec 2024 12:42:28 GMT
+C3:Content-Type: binary/octet-stream
+C3:Content-Length: 2461050044
+C3:Connection: keep-alive
+C3:Content-Range: bytes 7388960228-9850010271/9850010272
+C3:CF-Ray: 8eb3284389733d86-SIN
+C3:CF-Cache-Status: DYNAMIC
+C3:Accept-Ranges: bytes
+C3:Access-Control-Allow-Origin: *
+C3:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C3:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C3:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C3:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C3:Via: 1.1 83105cf21571f7add7f75e53abfb7d80.cloudfront.net (CloudFront)
+C3:access-control-allow-methods: GET, HEAD, PUT
+C3:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C3:access-control-max-age: 3000
+C3:content-security-policy: default-src 'none'; sandbox
+C3:x-amz-cf-id: mCdDYxx7q631Hr9rmhQJKZvhrHfpkrYjjxt6whC-v6ipuL-NdDJmwQ==
+C3:x-amz-cf-pop: CGK51-P3
+C3:x-amz-server-side-encryption: AES256
+C3:x-amz-storage-class: INTELLIGENT_TIERING
+C3:x-amz-version-id: null
+C3:x-cache: Miss from cloudfront
+C3:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=kiE%2BWGoapkYOVJ1MG%2BQAix4glupn%2BJ4PnFenvwxQLafNLTFHMljzhj9FlmGE%2BhU6hL9sSzCO8BGrJecN4ZifbmM8RQ2F9HXuiUXtBlzXBMKKznwx5T4Tb%2Fi%2BWyJAgpEh9wx%2Bvqx3RyH02V6VKg%3D%3D"}],"group":"cf-nel","max_age":604800}
+C3:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C3:Server: cloudflare
+C3:alt-svc: h3=":443"; ma=86400
+C3:server-timing: cfL4;desc="?proto=TCP&rtt=1627&min_rtt=958&rtt_var=812&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2992&recv_bytes=1775&delivery_rate=2437710&cwnd=252&unsent_bytes=0&cid=1d6cb2fd1bf1dc25&ts=1055&x=0"
+C3:
+C3:正在接收数据...
+C2:HTTP/1.1 206 Partial Content
+C2:Date: Sun, 01 Dec 2024 12:42:28 GMT
+C2:Content-Type: binary/octet-stream
+C2:Content-Length: 4922100087
+C2:Connection: keep-alive
+C2:Content-Range: bytes 4927910185-9850010271/9850010272
+C2:CF-Ray: 8eb328430bcd4804-SIN
+C2:CF-Cache-Status: DYNAMIC
+C2:Accept-Ranges: bytes
+C2:Access-Control-Allow-Origin: *
+C2:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C2:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C2:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C2:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C2:Via: 1.1 29147f9e38067439b15976c1b4e88fc2.cloudfront.net (CloudFront)
+C2:access-control-allow-methods: GET, HEAD, PUT
+C2:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C2:access-control-max-age: 3000
+C2:content-security-policy: default-src 'none'; sandbox
+C2:x-amz-cf-id: KCRI66VtRHjkOw6qmNFgokotaOdkTt7OVlkxuRzvXQ1f4KRNIL5M5g==
+C2:x-amz-cf-pop: HKG1-P1
+C2:x-amz-server-side-encryption: AES256
+C2:x-amz-storage-class: INTELLIGENT_TIERING
+C2:x-amz-version-id: null
+C2:x-cache: Miss from cloudfront
+C2:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=W8bjFE15V4dK3NF7u97mEuNtI6l5FJ9u0grwWqDKJHSfrjhsxmD4TLFZoQoVkVuYLWgCU6Ri2qVFNUdkR5OishyhXjRRD1ZEJJALwXBG4dk0nD3lFeVxoT8n16M3IaAM7HPbN0RSMwaa5Yq6Jw%3D%3D"}],"group":"cf-nel","max_age":604800}
+C2:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C2:Server: cloudflare
+C2:alt-svc: h3=":443"; ma=86400
+C2:server-timing: cfL4;desc="?proto=TCP&rtt=1276&min_rtt=1255&rtt_var=388&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2991&recv_bytes=1775&delivery_rate=2084953&cwnd=252&unsent_bytes=0&cid=d587c7bb2ee4701c&ts=1217&x=0"
+C2:
+C2:正在接收数据...
+C4:正在连接...
+C5:正在连接...
+C6:正在连接...
+C7:正在连接...
+C4:HTTP/1.1 200 Connection established
+C4:
+C4:182 bytes of handshake (2) data sent
+C5:HTTP/1.1 200 Connection established
+C5:
+C5:182 bytes of handshake (2) data sent
+C6:HTTP/1.1 200 Connection established
+C6:
+C6:182 bytes of handshake (2) data sent
+C7:HTTP/1.1 200 Connection established
+C7:
+C7:182 bytes of handshake (2) data sent
+C6:2734 bytes of handshake data received
+C6:93 bytes of handshake data sent
+C7:2733 bytes of handshake data received
+C7:93 bytes of handshake data sent
+C5:2732 bytes of handshake data received
+C5:93 bytes of handshake data sent
+C6:258 bytes of handshake data received
+C6:Handshake was successful
+C6:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 4, startPos 2467677294, nextID 2
+Updating record with num 1: set ID 1, startPos 5224340, nextID 4
+C6:发送获取 (GET) 命令...
+C6:SC step1, Time: 1733056947.964
+C6:2467677294-4927910184, 2467677294-4927910248
+C6:Header: 13, Trailer: 16, MaxMessage: 16384
+C6:1500 bytes of request sent
+C7:258 bytes of handshake data received
+C7:Handshake was successful
+C7:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 5, startPos 6158539341, nextID 3
+Updating record with num 2: set ID 2, startPos 4927910185, nextID 5
+C7:发送获取 (GET) 命令...
+C7:SC step1, Time: 1733056947.973
+C7:6158539341-7388960227, 6158539341-7388960291
+C7:Header: 13, Trailer: 16, MaxMessage: 16384
+C7:1500 bytes of request sent
+C4:2734 bytes of handshake data received
+C4:93 bytes of handshake data sent
+C5:258 bytes of handshake data received
+C5:Handshake was successful
+C5:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 6, startPos 8619734620, nextID -1
+Updating record with num 3: set ID 3, startPos 7388960228, nextID 6
+C5:发送获取 (GET) 命令...
+C5:SC step1, Time: 1733056948.87
+C5:8619734620-9850010271, 8619734620-9850010271
+C5:Header: 13, Trailer: 16, MaxMessage: 16384
+C5:1500 bytes of request sent
+C4:258 bytes of handshake data received
+C4:Handshake was successful
+C4:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 7, startPos 3697793739, nextID 2
+Updating record with num 4: set ID 4, startPos 2467677294, nextID 7
+C4:发送获取 (GET) 命令...
+C4:SC step1, Time: 1733056948.187
+C4:3697793739-4927910184, 3697793739-4927910248
+C4:Header: 13, Trailer: 16, MaxMessage: 16384
+C4:1500 bytes of request sent
+C6:HTTP/1.1 206 Partial Content
+C6:Date: Sun, 01 Dec 2024 12:42:29 GMT
+C6:Content-Type: binary/octet-stream
+C6:Content-Length: 2460232955
+C6:Connection: keep-alive
+C6:Content-Range: bytes 2467677294-4927910248/9850010272
+C6:CF-Ray: 8eb3284b9fef899a-SIN
+C6:CF-Cache-Status: DYNAMIC
+C6:Accept-Ranges: bytes
+C6:Access-Control-Allow-Origin: *
+C6:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C6:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C6:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C6:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C6:Via: 1.1 0350bcc5158e7a7188f8505b95081286.cloudfront.net (CloudFront)
+C6:access-control-allow-methods: GET, HEAD, PUT
+C6:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C6:access-control-max-age: 3000
+C6:content-security-policy: default-src 'none'; sandbox
+C6:x-amz-cf-id: HGdwsNjDnOfK2-NnvdbF_UdSXx1b8uNZMKSzjmk_xQnl03X2qTdEBg==
+C6:x-amz-cf-pop: SIN52-P1
+C6:x-amz-server-side-encryption: AES256
+C6:x-amz-storage-class: INTELLIGENT_TIERING
+C6:x-amz-version-id: null
+C6:x-cache: Miss from cloudfront
+C6:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=s2NeCmPn95ifhhxdIYEC3nRvHEwpewJJMmzLPkTYKrlKHqykW5kmzEQAf6FylEkaGPTq9FGDr5yNZe6BgQt1BAGfJ3MhMZd5kCOmXf9ClNasWF7vDYE1pJV60XyQbcVqij1r9gY4BF4DUxjTMg%3D%3D"}],"group":"cf-nel","max_age":604800}
+C6:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C6:Server: cloudflare
+C6:alt-svc: h3=":443"; ma=86400
+C6:server-timing: cfL4;desc="?proto=TCP&rtt=1026&min_rtt=898&rtt_var=352&sent=5&recv=9&lost=0&retrans=0&sent_bytes=2992&recv_bytes=1775&delivery_rate=2172543&cwnd=252&unsent_bytes=0&cid=a6c0ae678d306f47&ts=683&x=0"
+C6:
+C6:正在接收数据...
+C7:HTTP/1.1 206 Partial Content
+C7:Date: Sun, 01 Dec 2024 12:42:29 GMT
+C7:Content-Type: binary/octet-stream
+C7:Content-Length: 1230420951
+C7:Connection: keep-alive
+C7:Content-Range: bytes 6158539341-7388960291/9850010272
+C7:CF-Ray: 8eb3284b9e6c561b-SIN
+C7:CF-Cache-Status: DYNAMIC
+C7:Accept-Ranges: bytes
+C7:Access-Control-Allow-Origin: *
+C7:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C7:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C7:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C7:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C7:Via: 1.1 93e35c9dc15bc1e4c4e3a051603e3c20.cloudfront.net (CloudFront)
+C7:access-control-allow-methods: GET, HEAD, PUT
+C7:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C7:access-control-max-age: 3000
+C7:content-security-policy: default-src 'none'; sandbox
+C7:x-amz-cf-id: TQGICFAfzB0G-JkQMCJ59_p0zVfZoQ9UEOqqRLFd3mrvUqwb8u8dNw==
+C7:x-amz-cf-pop: HKG1-P1
+C7:x-amz-server-side-encryption: AES256
+C7:x-amz-storage-class: INTELLIGENT_TIERING
+C7:x-amz-version-id: null
+C7:x-cache: Miss from cloudfront
+C7:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YZEwA5B8G3e164bguNn9GscgrzGp5bT2jJaqMrzD8Uz8xu5eWzYFB3LGW4YRU6ie0XenJCWbdI%2FAv3ZRnWcUmhX9%2FfOBvU%2Bd0AR9nrxcYO8cwtIhg0AKcTH%2BQRV8REhZvmzvrwvaXhC4AKgYRg%3D%3D"}],"group":"cf-nel","max_age":604800}
+C7:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C7:Server: cloudflare
+C7:alt-svc: h3=":443"; ma=86400
+C7:server-timing: cfL4;desc="?proto=TCP&rtt=890&min_rtt=776&rtt_var=297&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2991&recv_bytes=1775&delivery_rate=3731958&cwnd=252&unsent_bytes=0&cid=354449b46498423d&ts=973&x=0"
+C7:
+C7:正在接收数据...
+C5:HTTP/1.1 206 Partial Content
+C5:Date: Sun, 01 Dec 2024 12:42:29 GMT
+C5:Content-Type: binary/octet-stream
+C5:Content-Length: 1230275652
+C5:Connection: keep-alive
+C5:Content-Range: bytes 8619734620-9850010271/9850010272
+C5:CF-Ray: 8eb3284c8b0af881-SIN
+C5:CF-Cache-Status: DYNAMIC
+C5:Accept-Ranges: bytes
+C5:Access-Control-Allow-Origin: *
+C5:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C5:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C5:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C5:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C5:Via: 1.1 27daea920e24a2549315d62ab29ee85a.cloudfront.net (CloudFront)
+C5:access-control-allow-methods: GET, HEAD, PUT
+C5:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C5:access-control-max-age: 3000
+C5:content-security-policy: default-src 'none'; sandbox
+C5:x-amz-cf-id: LvtXnxe5lHvaFzNmGphB1obrAz4SXMbdBhP8g1ZTSX5Ri7pkbCtDIw==
+C5:x-amz-cf-pop: HKG1-P1
+C5:x-amz-server-side-encryption: AES256
+C5:x-amz-storage-class: INTELLIGENT_TIERING
+C5:x-amz-version-id: null
+C5:x-cache: Miss from cloudfront
+C5:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=CPmqtJ9Ru3MK7nQMwHeoyBl8Qdg391o3YpK%2BYQkO5viJeRfmWkxmqS2cC4429Uj7bc2jxwuh15k3a6WxBTzC5ER%2BAnjFK308RODQ6nvfCfrFxQC0IDtZq7w5pNeYxkchTlCXElkuyw5gZ5yZiA%3D%3D"}],"group":"cf-nel","max_age":604800}
+C5:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C5:Server: cloudflare
+C5:alt-svc: h3=":443"; ma=86400
+C5:server-timing: cfL4;desc="?proto=TCP&rtt=889&min_rtt=837&rtt_var=336&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2990&recv_bytes=1775&delivery_rate=3185918&cwnd=252&unsent_bytes=0&cid=f3f81af1987fc52f&ts=967&x=0"
+C5:
+C5:正在接收数据...
+C4:HTTP/1.1 206 Partial Content
+C4:Date: Sun, 01 Dec 2024 12:42:29 GMT
+C4:Content-Type: binary/octet-stream
+C4:Content-Length: 1230116510
+C4:Connection: keep-alive
+C4:Content-Range: bytes 3697793739-4927910248/9850010272
+C4:CF-Ray: 8eb3284cdefc44c3-SIN
+C4:CF-Cache-Status: DYNAMIC
+C4:Accept-Ranges: bytes
+C4:Access-Control-Allow-Origin: *
+C4:Content-Disposition: attachment; filename*=UTF-8''causallm_14b.Q5_0.gguf; filename="causallm_14b.Q5_0.gguf";
+C4:ETag: "eba321dc593c0c0112747ae4696f9a74-616"
+C4:Last-Modified: Mon, 23 Oct 2023 14:01:02 GMT
+C4:Vary: Origin,Access-Control-Request-Headers,Access-Control-Request-Method, Accept-Encoding
+C4:Via: 1.1 501c140df6d0c432555774cc24a4e778.cloudfront.net (CloudFront)
+C4:access-control-allow-methods: GET, HEAD, PUT
+C4:access-control-expose-headers: Content-Range, ETag, Access-Control-Allow-Origin, Accept-Ranges
+C4:access-control-max-age: 3000
+C4:content-security-policy: default-src 'none'; sandbox
+C4:x-amz-cf-id: vPt1r7JZ9hWuDjSKbrtzyxLbJLkVgcMUrMZCGoBMwjKdt2RAx5FdKw==
+C4:x-amz-cf-pop: CGK51-P3
+C4:x-amz-server-side-encryption: AES256
+C4:x-amz-storage-class: INTELLIGENT_TIERING
+C4:x-amz-version-id: null
+C4:x-cache: Miss from cloudfront
+C4:Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=CFWHEcsSvKYvKpg6K85JP9U0XcSabxP5EJhSjwsNvmtfEulfIqHeV2HxePZALRCiHdeWpvFgY2UraywYrl%2FEQW2qa5mLF%2FC3b0n3y2OZInv2hB3kPmfMcMgjtrOMKMhrrnMQkXOjeNw1CHdPzw%3D%3D"}],"group":"cf-nel","max_age":604800}
+C4:NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+C4:Server: cloudflare
+C4:alt-svc: h3=":443"; ma=86400
+C4:server-timing: cfL4;desc="?proto=TCP&rtt=1255&min_rtt=974&rtt_var=732&sent=5&recv=8&lost=0&retrans=0&sent_bytes=2992&recv_bytes=1775&delivery_rate=1225042&cwnd=252&unsent_bytes=0&cid=b09056c63b5e28fd&ts=864&x=0"
+C4:
+C4:正在接收数据...
+C8:正在连接...
+C9:正在连接...
+C10:正在连接...
+C11:正在连接...
+C12:正在连接...
+C13:正在连接...
+C14:正在连接...
+C15:正在连接...
+C8:HTTP/1.1 200 Connection established
+C8:
+C8:182 bytes of handshake (2) data sent
+C9:HTTP/1.1 200 Connection established
+C9:
+C9:182 bytes of handshake (2) data sent
+C10:HTTP/1.1 200 Connection established
+C10:
+C10:182 bytes of handshake (2) data sent
+C11:HTTP/1.1 200 Connection established
+C11:
+C11:182 bytes of handshake (2) data sent
+C12:HTTP/1.1 200 Connection established
+C12:
+C12:182 bytes of handshake (2) data sent
+C13:HTTP/1.1 200 Connection established
+C13:
+C13:182 bytes of handshake (2) data sent
+C15:HTTP/1.1 200 Connection established
+C15:
+C15:182 bytes of handshake (2) data sent
+C14:HTTP/1.1 200 Connection established
+C14:
+C14:182 bytes of handshake (2) data sent
+C12:2733 bytes of handshake data received
+C12:93 bytes of handshake data sent
+C10:2732 bytes of handshake data received
+C10:93 bytes of handshake data sent
+C13:2733 bytes of handshake data received
+C13:93 bytes of handshake data sent
+C12:258 bytes of handshake data received
+C12:Handshake was successful
+C12:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 8, startPos 1238169104, nextID 4
+Updating record with num 1: set ID 1, startPos 5224340, nextID 8
+C12:发送获取 (GET) 命令...
+C12:SC step1, Time: 1733056949.520
+C12:1238169104-2467677293, 1238169104-2467677357
+C12:Header: 13, Trailer: 16, MaxMessage: 16384
+C12:1500 bytes of request sent
+C10:258 bytes of handshake data received
+C10:Handshake was successful
+C10:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 9, startPos 6773833818, nextID 3
+Updating record with num 5: set ID 5, startPos 6158539341, nextID 9
+C10:发送获取 (GET) 命令...
+C10:SC step1, Time: 1733056949.522
+C10:6773833818-7388960227, 6773833818-7388960291
+C10:Header: 13, Trailer: 16, MaxMessage: 16384
+C10:1500 bytes of request sent
+C8:2732 bytes of handshake data received
+C8:93 bytes of handshake data sent
+C8:258 bytes of handshake data received
+C8:Handshake was successful
+C8:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 10, startPos 4312858806, nextID 2
+Updating record with num 7: set ID 7, startPos 3697793739, nextID 10
+C8:发送获取 (GET) 命令...
+C8:SC step1, Time: 1733056949.690
+C8:4312858806-4927910184, 4312858806-4927910248
+C8:Header: 13, Trailer: 16, MaxMessage: 16384
+C8:1500 bytes of request sent
+C13:258 bytes of handshake data received
+C13:Handshake was successful
+C13:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+Insert next chunk in list
+s9
+Adding record to registry with ID 11, startPos 9235042413, nextID -1
+Updating record with num 6: set ID 6, startPos 8619734620, nextID 11
+C13:发送获取 (GET) 命令...
+C13:SC step1, Time: 1733056949.725
+C13:9235042413-9850010271, 9235042413-9850010271
+C13:Header: 13, Trailer: 16, MaxMessage: 16384
+C13:1500 bytes of request sent
+time 1733056949, speed 2861691, downl 12966555 Bytes
+time 1733056949
+C0:stratPos=0, endPos=5224339, downloaded=5147426, posInCmpBuff3=0
+C0:Sending Close Notify
+C0:断开。
+C1:stratPos=5224340, endPos=1238169103, downloaded=3547168, posInCmpBuff3=0
+C1:Sending Close Notify
+C1:断开。
+C2:stratPos=4927910185, endPos=6158539340, downloaded=1443278, posInCmpBuff3=0
+C2:Sending Close Notify
+C2:断开。
+C3:stratPos=7388960228, endPos=8619734619, downloaded=1571893, posInCmpBuff3=0
+C3:Sending Close Notify
+C3:断开。
+C4:stratPos=3697793739, endPos=4312858805, downloaded=25949, posInCmpBuff3=0
+C4:Sending Close Notify
+C4:断开。
+C5:stratPos=8619734620, endPos=9235042412, downloaded=402890, posInCmpBuff3=0
+C5:Sending Close Notify
+C5:断开。
+C6:stratPos=2467677294, endPos=3697793738, downloaded=550513, posInCmpBuff3=0
+C6:Sending Close Notify
+C6:断开。
+C7:stratPos=6158539341, endPos=6773833817, downloaded=277438, posInCmpBuff3=0
+C7:Sending Close Notify
+C7:断开。
+C8:stratPos=4312858806, endPos=4927910184, downloaded=0, posInCmpBuff3=0
+C8:Sending Close Notify
+C8:断开。
+C9:断开。
+C10:stratPos=6773833818, endPos=7388960227, downloaded=0, posInCmpBuff3=0
+C10:Sending Close Notify
+C10:断开。
+C11:断开。
+C12:stratPos=1238169104, endPos=2467677293, downloaded=0, posInCmpBuff3=0
+C12:Sending Close Notify
+C12:断开。
+C13:stratPos=9235042413, endPos=9850010271, downloaded=0, posInCmpBuff3=0
+C13:Sending Close Notify
+C13:断开。
+C14:断开。
+C15:断开。
+Cancel by user.

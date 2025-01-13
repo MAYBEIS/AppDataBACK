@@ -1,0 +1,28 @@
+2024-11-19 20:00:54: Expanded 'file:///C:/Users/%USERNAME%.%COMPUTERNAME%/AppData/Local/Syncthing' to 'file:///C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing'
+2024-11-19 20:00:54: Expanded 'file:///%GSDISK%/_ProFile/AppData/Syncthing' to 'file:///M:/_ProFile/AppData/Syncthing'
+2024-11-19 20:00:54: -- 分析开始 GoodSync Start
+2024-11-19 20:00:54: 变更：14， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 30
+2024-11-19 20:00:54: Left to Right: Copy File: 9 Delete File: 5 
+2024-11-19 20:00:54: == 同步开始由 GoodSync Start
+2024-11-19 20:00:54: 删除文件 M:/_ProFile/AppData/Syncthing/config.xml.v0
+2024-11-19 20:00:54: 删除文件 M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/000045.ldb
+2024-11-19 20:00:54: 删除文件 M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/000046.log
+2024-11-19 20:00:54: 删除文件 M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/000048.ldb
+2024-11-19 20:00:54: 删除文件 M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/MANIFEST-000047
+2024-11-19 20:00:54: 新建复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/000057.ldb' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/000057.ldb' (9,500)
+2024-11-19 20:00:54: C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/000058.log: Source file has changed between Analyze and Sync from '[file] size=0 accu-time=2024-11-15 17:27:49 attr=Archive cktype=0' to 'size=44,820 time=2024-11-15 19:31:59', noted in source file state
+2024-11-19 20:00:54: 新建复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/000058.log' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/000058.log' (0)
+2024-11-19 20:00:54: 覆盖复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/config.xml' -> 'M:/_ProFile/AppData/Syncthing/config.xml' (18,166)
+2024-11-19 20:00:54: 覆盖复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/CURRENT' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/CURRENT' (16)
+2024-11-19 20:00:54: 覆盖复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/CURRENT.bak' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/CURRENT.bak' (16)
+2024-11-19 20:00:54: 新建复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/000060.ldb' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/000060.ldb' (1,739,105)
+2024-11-19 20:00:54: C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/LOG: Source file has changed between Analyze and Sync from '[file] size=15,084 accu-time=2024-11-15 12:26:39 attr=Archive cktype=0' to 'size=16,151 time=2024-11-15 17:27:51', noted in source file state
+2024-11-19 20:00:54: 覆盖复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/LOG' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/LOG' (15,084)
+2024-11-19 20:00:54: 新建复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/index-v0.14.0.db/MANIFEST-000059' -> 'M:/_ProFile/AppData/Syncthing/index-v0.14.0.db/MANIFEST-000059' (646)
+2024-11-19 20:00:54: 覆盖复制 'C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Local/Syncthing/syncthing.log' -> 'M:/_ProFile/AppData/Syncthing/syncthing.log' (127,875)
+2024-11-19 20:00:54: Deleted Recycled: M:/_ProFile/AppData/Syncthing/_gsdata_/_saved_/index-v0.14.0.db/000030.ldb
+2024-11-19 20:00:54: Deleted Recycled: M:/_ProFile/AppData/Syncthing/_gsdata_/_saved_/index-v0.14.0.db/000031.ldb
+2024-11-19 20:00:54: Deleted Recycled: M:/_ProFile/AppData/Syncthing/_gsdata_/_saved_/index-v0.14.0.db/000028.log
+2024-11-19 20:00:54: Deleted Recycled: M:/_ProFile/AppData/Syncthing/_gsdata_/_saved_/index-v0.14.0.db/MANIFEST-000029
+2024-11-19 20:00:54: Deleted Recycled: M:/_ProFile/AppData/Syncthing/_gsdata_/_saved_/index-v0.14.0.db/000027.ldb
+2024-11-19 20:00:54: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 14, 错误: 0
