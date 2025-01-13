@@ -1,0 +1,142 @@
+UI_SETTING_RESOLUTION_INPUT ~~NO_KEY
+HELMET_MERLING_MEDIUM_00 ~zh-cn~EMPTY
+HELMET_MERLING_MEDIUM_01 ~zh-cn~EMPTY
+HELMET_MERLING_MEDIUM_02 ~zh-cn~EMPTY
+HELMET_MERLING_MEDIUM_03 ~zh-cn~EMPTY
+HELMET_MERLING_CLOTH_00 ~zh-cn~EMPTY
+HELMET_MERLING_CLOTH_01 ~zh-cn~EMPTY
+HELMET_MERLING_CLOTH_02 ~zh-cn~EMPTY
+HELMET_MERLING_CLOTH_03 ~zh-cn~EMPTY
+HELMET_MERLING_MAGIC_00 ~zh-cn~EMPTY
+HELMET_MERLING_MAGIC_01 ~zh-cn~EMPTY
+HELMET_MERLING_MAGIC_02 ~zh-cn~EMPTY
+HELMET_MERLING_MAGIC_03 ~zh-cn~EMPTY
+HELMET_BISONTAUR_HEAVY_00 ~zh-cn~EMPTY
+HELMET_BISONTAUR_HEAVY_01 ~zh-cn~EMPTY
+HELMET_BISONTAUR_HEAVY_02 ~zh-cn~EMPTY
+HELMET_BISONTAUR_HEAVY_03 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_MEDIUM_01 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_MEDIUM_02 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_MEDIUM_03 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_CLOTH_00 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_CLOTH_01 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_CLOTH_02 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_CLOTH_03 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_MAGIC_01 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_MAGIC_02 ~zh-cn~EMPTY
+CHESTARMOR_MERLING_MAGIC_03 ~zh-cn~EMPTY
+CHESTARMOR_MYSTIC_MAGIC_00 ~zh-cn~EMPTY
+CHESTARMOR_MYSTIC_MAGIC_01 ~zh-cn~EMPTY
+CHESTARMOR_MYSTIC_MAGIC_02 ~zh-cn~EMPTY
+CHESTARMOR_MYSTIC_MAGIC_03 ~zh-cn~EMPTY
+CHESTARMOR_MINDBENDER_MAGIC_01 ~zh-cn~EMPTY
+CHESTARMOR_MINDBENDER_MAGIC_02 ~zh-cn~EMPTY
+CHESTARMOR_MINDBENDER_MAGIC_03 ~zh-cn~EMPTY
+CHESTARMOR_BISONTAUR_HEAVY_00 ~zh-cn~EMPTY
+CHESTARMOR_BISONTAUR_HEAVY_01 ~zh-cn~EMPTY
+CHESTARMOR_BISONTAUR_HEAVY_02 ~zh-cn~EMPTY
+CHESTARMOR_BISONTAUR_HEAVY_03 ~zh-cn~EMPTY
+GLOVES_MERLING_MEDIUM_00 ~zh-cn~EMPTY
+GLOVES_MERLING_MEDIUM_01 ~zh-cn~EMPTY
+GLOVES_MERLING_MEDIUM_02 ~zh-cn~EMPTY
+GLOVES_MERLING_MEDIUM_03 ~zh-cn~EMPTY
+GLOVES_MERLING_CLOTH_00 ~zh-cn~EMPTY
+GLOVES_MERLING_CLOTH_01 ~zh-cn~EMPTY
+GLOVES_MERLING_CLOTH_02 ~zh-cn~EMPTY
+GLOVES_MERLING_CLOTH_03 ~zh-cn~EMPTY
+GLOVES_MERLING_MAGIC_00 ~zh-cn~EMPTY
+GLOVES_MERLING_MAGIC_01 ~zh-cn~EMPTY
+GLOVES_MERLING_MAGIC_02 ~zh-cn~EMPTY
+GLOVES_MERLING_MAGIC_03 ~zh-cn~EMPTY
+GLOVES_MYSTIC_MAGIC_00 ~zh-cn~EMPTY
+GLOVES_MYSTIC_MAGIC_01 ~zh-cn~EMPTY
+GLOVES_MYSTIC_MAGIC_02 ~zh-cn~EMPTY
+GLOVES_MYSTIC_MAGIC_03 ~zh-cn~EMPTY
+GLOVES_BISONTAUR_HEAVY_00 ~zh-cn~EMPTY
+GLOVES_BISONTAUR_HEAVY_01 ~zh-cn~EMPTY
+GLOVES_BISONTAUR_HEAVY_02 ~zh-cn~EMPTY
+GLOVES_BISONTAUR_HEAVY_03 ~zh-cn~EMPTY
+BOOTS_MERLING_MEDIUM_00 ~zh-cn~EMPTY
+BOOTS_MERLING_MEDIUM_01 ~zh-cn~EMPTY
+BOOTS_MERLING_MEDIUM_02 ~zh-cn~EMPTY
+BOOTS_MERLING_MEDIUM_03 ~zh-cn~EMPTY
+BOOTS_MERLING_CLOTH_00 ~zh-cn~EMPTY
+BOOTS_MERLING_CLOTH_01 ~zh-cn~EMPTY
+BOOTS_MERLING_CLOTH_02 ~zh-cn~EMPTY
+BOOTS_MERLING_CLOTH_03 ~zh-cn~EMPTY
+BOOTS_MERLING_MAGIC_00 ~zh-cn~EMPTY
+BOOTS_MERLING_MAGIC_01 ~zh-cn~EMPTY
+BOOTS_MERLING_MAGIC_02 ~zh-cn~EMPTY
+BOOTS_MERLING_MAGIC_03 ~zh-cn~EMPTY
+BOOTS_BISONTAUR_HEAVY_00 ~zh-cn~EMPTY
+BOOTS_BISONTAUR_HEAVY_01 ~zh-cn~EMPTY
+BOOTS_BISONTAUR_HEAVY_02 ~zh-cn~EMPTY
+BOOTS_BISONTAUR_HEAVY_03 ~zh-cn~EMPTY
+BLADE_LEPRECHAUN_REWARD_00 ~zh-cn~EMPTY
+STAFF_EVILQUEEN_03 ~zh-cn~EMPTY
+UI_INPUT_TAB ~zh-cn~NO_KEY
+天呐，我们这附近已经很久没来过这么多冒险者了。 ~zh-cn~NO_KEY
+很难相信混沌战争已经过去<color=#FBB060>20年</color>了，是吧？ ~zh-cn~NO_KEY
+哇，我简直有点想念那个不成气候的<color=#F97777>狂怒者</color>了。比起现在这局面，他的威胁确实小儿科了一些。 ~zh-cn~NO_KEY
+和这个相比，我更愿意随时面对天打雷劈，真的。 ~zh-cn~NO_KEY
+*低语*
+如果你还没听说的话我来告诉你，<color=#FBB060>法汝</color>的局势不太好。善良的<color=#F97777>罗斯芒女王</color>现在已经疯魔了！ ~zh-cn~NO_KEY
+现在我们这些普通人都生活在恐惧中。曾经那位可爱的女王到底怎么了？ ~zh-cn~NO_KEY
+如果你是来帮忙的，那就来<color=#FBB060>普兰</color>见我，我会把知道的一切都告诉你。应该不会太久的。 ~zh-cn~NO_KEY
+密切关注<color=#8FEBF3>上方的计时器</color>！如果超时，我们就完了！ ~zh-cn~NO_KEY
+BASIC_MOVE ~zh-cn~NO_KEY
+啊哈！瞧瞧这是什么！
+
+圣坛能够保护角色免于死亡，但是也会因此而永远湮灭。 ~zh-cn~NO_KEY
+<i>去吧，英雄。让风指引你。</i>
+
+<b><color=#f8f1cb>9527 已获得:</color></b>
++2 移动加成 ~zh-cn~NO_KEY
+啊哈！瞧瞧这是什么！
+
+英雄石碑是法汝古代英雄的纪念碑。造访它们可以获得经验值并恢复专注。 ~zh-cn~NO_KEY
+<i>“纪念在混沌战争中不惜奉献生命的勇敢英雄们。”</i>
+
+<b><color=#f8f1cb>Maybe 已获得:</color></b>
+完全专注
++12 经验值 ~zh-cn~NO_KEY
+啊哈！瞧瞧这是什么！
+
+有些地方会给你的玩家或团队提供奖励和增益效果，而有些地方则会带来危险和冒险。 ~zh-cn~NO_KEY
+QUEST_OBJECTIVE_0_ENTITY_NAME ~zh-cn~NO_KEY
+QUEST_OBJECTIVE_0_ENTITY_BIOME ~zh-cn~NO_KEY
+QUEST_ENCOUNTER_BOAT1_ENTITY_NAME ~zh-cn~NO_KEY
+QUEST_ENCOUNTER_BOAT1_ENTITY_BIOME ~zh-cn~NO_KEY
+BIOME_ ~zh-cn~NO_KEY
+感谢长眠的诸神，你在这里。这么偷偷摸摸的，我可真受不了。 ~zh-cn~NO_KEY
+在<color=#F97777>罗斯芒女王</color>的命令下，卫队一直在逮捕所有反对者，大多数人从此就消失了。 ~zh-cn~NO_KEY
+一位名叫<color=#FBB060>格里泽尔</color>的年轻女孩被抓走了，目前被关在<color=#FBB060>警卫室</color>，她是个好姑娘，亦是抵抗军心中的英雄。 ~zh-cn~NO_KEY
+那个可怜的小家伙就要被处决了。要想有个机会推翻这种暴政，就必须解救她！我们需要突袭<color=#FBB060>警卫室</color>。 ~zh-cn~NO_KEY
+我认为最可靠的方法，是引发一场女王卫队无法忽视的骚动。他们会疲于奔命，让<color=#FBB060>警卫室</color>无人驻守。 ~zh-cn~NO_KEY
+在本地<color=#FBB060>酒馆</color>引起一场典型的争吵肯定会引起护卫的注意，老天知道这可是我的经验之谈。 ~zh-cn~NO_KEY
+哦，我碰巧知道他们今天要给<color=#FBB060>廷德顿码头</color>送补给。稍微<color=#FBB060>纵个火</color>也无伤大雅…… ~zh-cn~NO_KEY
+啊哈！瞧瞧这是什么！
+
+发现多处瞬息之池，即可在其之间快速传送 ~zh-cn~NO_KEY
+啊哈！瞧瞧这是什么！
+
+王国地下城里面充满了各种财宝，然而宝藏的看守也非等闲之辈，在彻底净空地下城之前可没有回头路。 ~zh-cn~NO_KEY
+<i>太棒了，我们要一起发财了。</i>
+
+<b><color=#f8f1cb>9527 已获得:</color></b>
++20% 金币增幅 ~zh-cn~NO_KEY
+我们所剩时间不多了！ ~zh-cn~NO_KEY
+<i>“纪念在混沌战争中不惜奉献生命的勇敢英雄们。”</i>
+
+<b><color=#f8f1cb>9527 已获得:</color></b>
+完全专注
++35 经验值 ~zh-cn~NO_KEY
+<i>“纪念在混沌战争中不惜奉献生命的勇敢英雄们。”</i>
+
+<b><color=#f8f1cb>9527 已获得:</color></b>
+完全专注
++12 经验值 ~zh-cn~NO_KEY
+<i>我认为我们有很多可以相互学习之处。</i>
+
+<b><color=#f8f1cb>9527 已获得:</color></b>
++15% 经验增幅 ~zh-cn~NO_KEY

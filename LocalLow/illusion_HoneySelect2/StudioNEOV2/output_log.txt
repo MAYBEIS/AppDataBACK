@@ -1,0 +1,2165 @@
+Initialize engine version: 2018.4.11f1 (7098af2f11ea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   
+    VRAM:     12129 MB
+    Driver:   31.0.15.3158
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.049 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.503500 ms
+[Message:   BepInEx] BepInEx 5.4.19.0 - StudioNEOV2 (2020/12/17 23:00:00)
+[Info   :   BepInEx] Running under Unity v2018.4.11.7379119
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [CultureFix 20.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [HS2_ExtensibleSaveFormat_Patcher 0.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [MagicCarrot 20.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [UnityLogFilter 1.0.0.0]
+[Info   :   BepInEx] 5 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [ExtensibleSaveFormat.Patcher]
+[Info   :   BepInEx] Patching [Sirenix.Utilities] with [IllusionFixes.Patchers.MagicCarrotPatch]
+[Info   :   BepInEx] Patching [Sirenix.Serialization] with [IllusionFixes.Patchers.MagicCarrotPatch]
+[Info   :UnityLogFilter] Loaded 0 filters
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Debug  :   BepInEx] Skipping loading D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\BepInEx\plugins\HS2_Plugins\HS2VR_CustomMapsFix.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
+[Info   :   BepInEx] 165 plugins to load
+[Warning:   BepInEx] Skipping [BGM Loader 18.2] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_BetterHScenes 2.6.5] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_ExtraGroups 1.0.1] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_HCharaSwitcher 1.2.1] because of process filters (HoneySelect2, HoneySelect2VR)
+[Warning:   BepInEx] Skipping [HS2_HLightControl 1.2.4] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_MakerAdditions 1.0.0] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_MakerRandomPicker 1.2.0] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_MakerSearch 1.5.1] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_RandomHPicker 1.0.0] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_UnlockPlayerHClothes 1.4.3] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2 Better Penetration 5.0.1.0] because of process filters (HoneySelect2, HoneySelect2VR)
+[Warning:   BepInEx] Skipping [Maker Jump to Selection Edition 1.0.0.99] because of process filters (HoneySelect2.exe)
+[Warning:   BepInEx] Skipping [HS2_GirlsEntrance 1.1] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [Material Editor Maker 3.1.17] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [Subtitles 2.3.2] because of process filters (HoneySelect2VR, HoneySelect2)
+[Warning:   BepInEx] Skipping [Maker Male Face Types 20.0] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [Maker Optimizations 20.0] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [Character Replacer 1.6.3] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2_ColorPanelX 1.4.1] because of process filters (HoneySelect2, AI-Syoujyo.exe)
+[Warning:   BepInEx] Skipping [HeightBarX 3.3] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [Gravure plugin 1.4.1] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [PushUp plugin GUI 2.1.4] because of process filters (HoneySelect2)
+[Warning:   BepInEx] Skipping [HS2TakeChargePlugin 1.4.0] because of process filters (HoneySelect2.exe, HoneySelect2VR.exe)
+[Warning:   BepInEx] Skipping [HS2ChicksDigMapModdersPlugin 1.0.1] because of process filters (HoneySelect2.exe)
+[Warning:   BepInEx] Skipping [MakerSortIconReplacer 1.0.0] because of process filters (HoneySelect2.exe)
+[Info   :   BepInEx] Loading [_AssemblyLoader 1.0.0.0]
+[Info   :_AssemblyLoader] 开始加载程序集...
+[Info   :_AssemblyLoader] 有6个程序集需要加载
+[Info   :_AssemblyLoader] 开始加载TopBAnim...
+[Info   :_AssemblyLoader] 开始加载MoreMakeup...
+[Info   :_AssemblyLoader] 开始加载AQUAS...
+[Info   :_AssemblyLoader] 开始加载MdgqBodyChange...
+[Info   :_AssemblyLoader] 开始加载RockyScript...
+[Info   :_AssemblyLoader] 开始加载SystemDrawing...
+[Info   :_AssemblyLoader] 加载完毕
+[Info   :   BepInEx] Loading [UnityConsoleK_VNGE 1.0.0.0]
+OnLevelWasLoaded was found on ConsolePlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+[Info   :   BepInEx] Loading [Enable Full Screen Toggle 1.0]
+[Info   :   BepInEx] Loading [Enable Resize 1.5]
+[Info   :   BepInEx] Loading [Input Hotkey Block 1.4]
+[Info   :   BepInEx] Loading [Mute In Background 1.1]
+[Info   :   BepInEx] Loading [Optimize IMGUI GC allocations 1.0]
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-0000022581C14C00.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258B6E90F0.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258B6E40A0.dll
+[Info   :   BepInEx] Loading [BepisFixHS2 1.0]
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258B63B030.dll
+[Info   :   BepInEx] Loading [Catch Unity Event Exceptions 1.0]
+[Info   :   BepInEx] Loading [Runtime Unity Editor 2.6.1]
+[Info   :   BepInEx] Loading [Cheat Tools 3.1.1]
+[Info   :   BepInEx] Loading [Extended Save 18.2]
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.0.0]
+[Info   :   BepInEx] Loading [Sideloader 18.2]
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258CFCB020.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadFromFileAsync_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D145010.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadFromFile_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D145C20.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadFromMemoryAsync_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D148840.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadFromMemory_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D149450.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadFromStreamAsyncInternal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D14A060.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadFromStreamInternal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D152C80.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.returnMainAsset through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.Load through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadAsync through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadAll through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D1558A0.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadAsset_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D17E030.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadAssetAsync_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D17EC40.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadAssetWithSubAssets_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D17F850.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundle.LoadAssetWithSubAssetsAsync_Internal through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D180460.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundleRequest.get_asset through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D181070.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundleRequest.get_allAssets through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D185C90.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.Resources.Load through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D1888B0.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.Resources.LoadAll through Harmony hooks.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type UnityEngine.Resources and name GetBuiltinResource and parameters (string, Type)
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D1914D0.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.Resources.GetBuiltinResource through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18F590.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundleCreateRequest.get_assetBundle through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18B940.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AssetBundleCreateRequest.SetEnableCompatibilityChecks through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18E980.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.get_isDone through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18D160.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.get_progress through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D1901A0.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.get_priority through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D189510.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.set_priority through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18A120.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.get_allowSceneActivation through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18AD30.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.set_allowSceneActivation through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.AsyncOperation.Finalize through Harmony hooks.
+[Debug  :XUnity.Common] Registered new callback for AssetBundleLoading.
+[Debug  :XUnity.Common] Registered new callback for AsyncAssetBundleLoading.
+[Debug  :XUnity.Common] Registered new callback for AssetBundleLoaded.
+[Debug  :XUnity.Common] Registered new callback for AsyncAssetLoading.
+[Debug  :XUnity.Common] Registered new callback for AssetLoading.
+[Debug  :XUnity.Common] Registered new callback for AssetBundleLoading.
+[Debug  :XUnity.Common] Registered new callback for AsyncAssetBundleLoading.
+[Info   :Sideloader] Found 7019 zipmods in directory: D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods
+[Warning:Sideloader] Cannot load 003DLTD1.zip - Manifest.xml is missing, make sure this is a zipmod.
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Laundry Stuff.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Map_Stuff.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] miscellaneous.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] ModularFloors.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] ModularWalls.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Monsters.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] nomnoms.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Oslandic Winter.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Pornhub_Ruler.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Sexy_Things.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] Trippy Stuff v0.0.1.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\Osland\[Osland] vroomvroom.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load archive "PersonalMods - Studio\Studio - Common\pacokie\[pacokie]beachvilla.zipmod" with error: ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
+  at ICSharpCode.SharpZipLib.Zip.ZipFile.ReadEntries () [0x00045] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at ICSharpCode.SharpZipLib.Zip.ZipFile..ctor (System.String name) [0x0005f] in <8d93bf6597c94016a0fac42f545df16f>:0 
+  at Sideloader.Sideloader+<>c.<LoadModsFromDirectories>b__50_0 (System.String archivePath) [0x00002] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Debug  :Sideloader] Starting Slot IDs at 100000596
+[Warning:Sideloader] Multiple versions detected, only "PersonalMods_Done\PersonalMods\GDC\[GDC] male overall v1.0.0.zipmod" will be loaded. Skipped versions: "_V0-1\tietu 海量最新MOD全部3元1套需要的加群583724396 675368972 (3).zipmod"
+[Error  :Sideloader] Failed to load list file "abdata/list/characustom/WRSP.csv" from archive "wsbmods\WRSP.zipmod" with error: System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Int32.Parse (System.String s) [0x00007] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at Sideloader.AutoResolver.UniversalAutoResolver+<>c__DisplayClass36_1.<GenerateResolutionInfo>b__1 (Sideloader.AutoResolver.CategoryProperty propertyKey) [0x0014e] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+  at System.Linq.Enumerable+SelectListIterator`2[TSource,TResult].MoveNext () [0x00048] in <fbb5ed17eb6e46c680000f8910ebb50c>:0 
+  at System.Collections.Generic.List`1[T].InsertRange (System.Int32 index, System.Collections.Generic.IEnumerable`1[T] collection) [0x000db] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Collections.Generic.List`1[T].AddRange (System.Collections.Generic.IEnumerable`1[T] collection) [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at Sideloader.AutoResolver.UniversalAutoResolver.GenerateResolutionInfo (Sideloader.Manifest manifest, AIChara.ChaListData data, System.Collections.Generic.List`1[T] results) [0x00080] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+  at Sideloader.Sideloader.LoadAllLists (ICSharpCode.SharpZipLib.Zip.ZipFile arc, Sideloader.Manifest manifest) [0x0005c] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+[Error  :Sideloader] Failed to load list file "abdata/list/characustom/dlqzsp_head.csv" from archive "mymodss\东篱秋醉少女饰品.zipmod" with error: System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Int32.Parse (System.String s) [0x00007] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at Sideloader.ListLoader.Lists.LoadCSV (System.IO.Stream stream) [0x00030] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+  at Sideloader.Sideloader.LoadAllLists (ICSharpCode.SharpZipLib.Zip.ZipFile arc, Sideloader.Manifest manifest) [0x0004c] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at Sideloader.AutoResolver.UniversalAutoResolver.ResolveFaceSkins () [0x0025a] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+  at Sideloader.Sideloader.LoadModsFromDirectories (System.String[] modDirectories) [0x0043a] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+  at Sideloader.Sideloader.Awake () [0x001ba] in <a1a44289940a4551bf344f8a0220b8fb>:0 
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type)
+BepInEx.Bootstrap.Chainloader:Start()
+UnityEngine.Application:.cctor()
+UnityEngine.AddressableAssets.AddressablesImpl:get_PlayerBuildDataPath()
+UnityEngine.AddressableAssets.AddressablesImpl:get_RuntimePath()
+UnityEngine.AddressableAssets.AddressablesImpl:InitializeAsync()
+UnityEngine.AddressableAssets.AddressablesImpl:get_InitializationOperation()
+UnityEngine.AddressableAssets.AddressablesImpl:InstantiateAsync(Object, InstantiationParameters, Boolean)
+UnityEngine.AddressableAssets.AddressablesImpl:InstantiateAsync(Object, Transform, Boolean, Boolean)
+UnityEngine.AddressableAssets.Addressables:InstantiateAsync(Object, Transform, Boolean, Boolean)
+GameSetup.Setup:InitializeBeforeSceneLoad()
+ 
+(Filename: <7ba07f088431485bb722f3b3373e87ee> Line: 0)
+
+[Info   :   BepInEx] Loading [MoreAccessories 1.2.2]
+[Info   :   BepInEx] Loading [Modding API 1.33]
+[Debug  :Modding API] Game version 1.2.3 running under ja-JP culture
+[Debug  :Modding API] Installed DLC: 02 03 04 10 13 31 32 33 34 35 36 37 38 39 40 41 42 50 51 52 53 54 57 60
+[Debug  :Modding API] Processor: AMD Ryzen 5 3500X 6-Core Processor  (6 threads @ 3600MHz); RAM: 32719MB (34% used); OS: Windows 10  (10.0.0) 64bit
+[Info   :   BepInEx] Loading [Cloth colliders support 1.1]
+[Info   :   BepInEx] Loading [HS2 PoV X 1.3.1]
+[Info   :   BepInEx] Loading [Skin Overlay Mod 6.0.7]
+[Info   :   BepInEx] Loading [Uncensor Selector 3.11.5]
+[Info   :   BepInEx] Loading [HS2 Additional FK Nodes 1.2.1.0]
+[Info   :   BepInEx] Loading [Mod Bone Implantor 1.1.2]
+[Info   :   BepInEx] Loading [NodesConstraints 1.2.2]
+[Info   :   BepInEx] Loading [HS2 Studio Better Penetration 5.0.1.0]
+[Info   :   BepInEx] Loading [FemaleParameterInfoEditor 1.0.1]
+[Info   :   BepInEx] Loading [PlayBoopz 1.0.2]
+[Info   :   BepInEx] Loading [Configuration Manager 17.0]
+[Info   :   BepInEx] Loading [Input Length Unlocker 18.2]
+[Info   :   BepInEx] Loading [Screenshot Manager 18.2]
+[Info   :   BepInEx] Loading [Slider Unlocker 18.2]
+[Info   :   BepInEx] Loading [Message Center 1.1.1]
+[Info   :   BepInEx] Loading [Animation Controller 2.3]
+[Info   :   BepInEx] Loading [Animation Overdrive 1.1]
+[Info   :   BepInEx] Loading [Character Export 1.0]
+[Info   :   BepInEx] Loading [Colliders 1.2]
+[Info   :   BepInEx] Loading [Dynamic Bone Editor 1.0.4]
+[Info   :   BepInEx] Loading [Eye Control 1.0.1]
+[Info   :   BepInEx] Loading [FK and IK 1.1.3]
+[Info   :   BepInEx] Loading [Invisible Body 1.4]
+[Info   :   BepInEx] Loading [Maker Defaults 1.1]
+[Info   :   BepInEx] Loading [Material Editor 3.1.17]
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Info   :   BepInEx] Loading [Material Editor Studio 3.1.17]
+[Info   :   BepInEx] Loading [Pose Tools 1.1.1]
+[Info   :   BepInEx] Loading [Pose Quick Load 1.1]
+[Info   :   BepInEx] Loading [StudioSceneSettings 1.3.2]
+[Info   :   BepInEx] Loading [Studio Custom Masking 1.1.1]
+[Info   :   BepInEx] Loading [Image Embed 1.0.2]
+[Info   :   BepInEx] Loading [Studio Object Move Hotkeys 1.0]
+[Info   :   BepInEx] Loading [Studio Scene Loaded Sound 1.1]
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.1.0]
+OnLevelWasLoaded was found on AutoTranslationPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+[Debug  :XUnity.Common] Screen resolution determine to be: 1920x1080
+[Info   :XUnity.Common] Version of TextMesh Pro: 1.4.0.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.Text.set_text through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.Text.OnEnable through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TextMeshProUGUI.OnEnable through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TextMeshPro.OnEnable through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.set_text through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.SetText through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :XUnity.Common] Hooked TMPro.TMP_Text.SetCharArray through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.BeginGroup through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoLabel through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoButton through Harmony hooks.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type UnityEngine.GUI and name DoButtonGrid and parameters (UnityEngine.Rect, int, UnityEngine.GUIContent[], string[], int, UnityEngine.GUIStyle, UnityEngine.GUIStyle, UnityEngine.GUIStyle, UnityEngine.GUIStyle, UnityEngine.GUI+ToolbarButtonSize, bool[])
+[Warning:XUnity.Common] Could not hook 'GUI_DoButtonGrid_Hook_2019'. Likely due differences between different versions of the engine or text framework.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoButtonGrid through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoToggle through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.Box through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoRepeatButton through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoModalWindow through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.GUI.DoWindow through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.MaskableGraphic.OnEnable through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.Image.set_sprite through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.Image.set_overrideSprite through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.Image.set_material through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.UI.RawImage.set_texture through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.Cursor.SetCursor through Harmony hooks.
+[Debug  :XUnity.Common] Hooked UnityEngine.Material.set_mainTexture through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18C550.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.Sprite.get_texture through Harmony hooks.
+[Debug  :XUnity.Common] Disabling certificate checks for endpoints because of configuration.
+[Debug  :XUnity.Common] Probing whether OnLevelWasLoaded or SceneManager is supported in this version of Unity. Any warnings related to OnLevelWasLoaded coming from Unity can safely be ignored.
+[Debug  :XUnity.Common] SceneManager is supported in this version of Unity.
+[Debug  :XUnity.Common] Loaded resize command text files.
+[Debug  :XUnity.Common] --- Loading Global Translations ---
+[Debug  :XUnity.Common] Loaded translation text files (took 0.96 seconds)
+[Debug  :XUnity.Common] Created variation translations (took 0 seconds)
+[Debug  :XUnity.Common] Created token translations (took 0 seconds)
+[Debug  :XUnity.Common] Loaded texture files (took 0.61 seconds)
+[Info   :XUnity.Common] Loaded XUnity.AutoTranslator into Unity [2018.4.11f1] game.
+[Info   :   BepInEx] Loading [Text Resource Redirector 1.4.4.3]
+[Debug  :Text Resource Redirector] Hooking IllusionMods.TextFormatter+Hooks
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.ExcelDataHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.ScenarioDataHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258D18DD70.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.TextAsset.get_bytes through Harmony hooks.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002259730CC70.dll
+[Debug  :XUnity.Common] Hooked UnityEngine.TextAsset.get_text through Harmony hooks.
+[Info   :Text Resource Redirector] IllusionMods.TextAssetTableHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.ChaListDataHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.VoiceInfoHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.BGMNameInfoHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.EventContentInfoDataHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.MapInfoHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.ParameterNameInfoHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.AchievementInfoDataHandler enabled
+[Debug  :XUnity.Common] Registered new callback for AssetLoaded (OneCallbackPerResourceLoaded).
+[Debug  :XUnity.Common] Registered new callback for ResourceLoaded (OneCallbackPerResourceLoaded).
+[Info   :Text Resource Redirector] IllusionMods.PlanNameInfoHandler enabled
+[Debug  :Text Resource Redirector] TextResourceHelper (IllusionMods.HS2_TextResourceHelper) Settings:
+ - _blackListedStringArrayParamAssetTranslations:
+    - 0
+    - None
+    - 無
+    - 无
+ - CalcKeys:
+ - FormatKeys:
+ - GetRandomNameDirs:
+    - list/characustom
+ - GetScenarioDirs:
+    - adv/scenario
+ - IsHS2DX:
+    - True
+ - SupportedCommands:
+    - 242
+    - Calc
+    - Choice
+    - Text
+ - TextKeysBlacklist:
+    - 表示名
+
+[Info   :   BepInEx] Loading [HS2 Boob Settings 1.1.0]
+[Info   :   BepInEx] Loading [GeBo Modding API 1.1.2.1]
+[Info   :   BepInEx] Loading [Studio Scene Initial Camera 0.6.0.3]
+[Info   :   BepInEx] Loading [Studio MultiSelect Chara 1.0.0.2]
+[Info   :   BepInEx] Loading [Maker/Studio Browser Folders 2.6.2]
+[Info   :   BepInEx] Loading [Studio Scene Navigation 1.0.2.2]
+[Info   :   BepInEx] Loading [Translation Cache Cleaner 0.6.0.2]
+[Info   :   BepInEx] Loading [Translation Helper 1.1.0.9]
+[Debug  :Translation Helper] TranslationHelperPlugin.Translation.Configuration.Setup
+[Debug  :Translation Helper] TranslationHelperPlugin.Acceleration.Configuration.Setup
+[Debug  :Translation Helper] TranslationHelperPlugin.Chara.Configuration.Setup
+[Debug  :Translation Helper] TranslationHelperPlugin.Studio.Configuration.Setup
+[Info   :   BepInEx] Loading [Who Is There? 1.0.1.3]
+[Info   :   BepInEx] Loading [Hooah Utility 1.2.1]
+[Info   :   BepInEx] Loading [Hooah Game Extension (HS2) 2.2.2]
+[Info   :   BepInEx] Loading [HS2_AnimationPairing 1.2.0]
+[Info   :   BepInEx] Loading [HS2_DependencyLoader 1.1.2]
+[Info   :   BepInEx] Loading [HS2Heelz 1.14.3]
+[Info   :   BepInEx] Loading [HS2_StopBotheringMe 1.0.1]
+[Info   :   BepInEx] Loading [RendererEditor 1.6.0]
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-000002258B6FE240.dll
+[Info   :   BepInEx] Loading [BonesFrameworkR 1.4.6]
+BonesFramework: Trying to patch methods...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: UncensorSelector found, trying to patch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: UncensorSelector patched ReloadCharacterBody correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: UncensorSelector patched ReloadCharacterPenis correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: UncensorSelector patched ReloadCharacterBalls correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Patch successful!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Info   :   BepInEx] Loading [HS2US 1.11.1]
+[Info   :   BepInEx] Loading [HS2PE 2.13.2]
+[Info   :   BepInEx] Loading [Timeline 1.1.5]
+[Info   :   BepInEx] Loading [VideoExport 1.2.5]
+[Info   :   BepInEx] Loading [HS2 Particle Editor 1.0.0]
+[Info   :   BepInEx] Loading [Studio Pose Loader 0.1.7.0]
+[Info   :   BepInEx] Loading [CharaAnime 1.3.0]
+[Info   :   BepInEx] Loading [HS2ABMX (BonemodX) 4.4.6]
+[Info   :   BepInEx] Loading [PushUp plugin 2.1.4]
+[Info   :   BepInEx] Loading [Studio Chara Editor 1.1.1]
+[Info   :   BepInEx] Loading [Deformers 0.6]
+[Info   :   BepInEx] Loading [DHH Graphics Enhancer 1.15.28]
+[Info   :   BepInEx] Loading [Pose Load Fix 20.0]
+[Info   :   BepInEx] Loading [Studio Optimizations 20.0]
+[Info   :   BepInEx] Loading [Wet Accessories Fix 20.0]
+[Warning:Wet Accessories Fix] This plugin is temporarily disabled because of some accessory zipmods crashing the game
+[Info   :   BepInEx] Loading [Studio Wear Custom 0.4.0]
+[Info   :   BepInEx] Loading [HeadBundleRedirect 1.0]
+[Info   :   BepInEx] Loading [Studio_AnimationSearch 1.0.0]
+[Info   :   BepInEx] Loading [Character Random Mutation 0.0.1]
+[Info   :   BepInEx] Loading [C# Script Loader 1.2.4]
+[Info   :C# Script Loader] Found 2 scripts to compile, skipping 0 scripts because of `scriptignores` or process filters
+[Info   :C# Script Loader] warning CS1685: The predefined type `System.Runtime.InteropServices.DefaultParameterValueAttribute' is defined multiple times. Using definition from `IronPython.dll'
+[Info   :C# Script Loader] Running AYAYA_v2
+[Info   :   BepInEx] Loading [HS2 MultiAngleRotation 1.0.1]
+[Info   :   BepInEx] Loading [Configuration Manager wrapper for HoneySelect 2 18.2]
+[Info   :   BepInEx] Loading [HS2_CopyChaBodyMat 1.0]
+[Info   :   BepInEx] Loading [Camera Target Fix 20.0]
+[Info   :   BepInEx] Loading [Fix Shader Dropdown Menu 20.0]
+[Info   :   BepInEx] Loading [Adjust physics gravity to match AI-Shoujo 20.0]
+[Info   :   BepInEx] Loading [Invalid Scene Protection 20.0]
+[Info   :   BepInEx] Loading [Studio and Maker Data Corruption Fixes 20.0]
+[Info   :   BepInEx] Loading [Manifest Corrector 20.0]
+[Info   :   BepInEx] Loading [Null Checks 20.0]
+[Info   :   BepInEx] Loading [Resource Unload Optimizations 20.0]
+[Info   :   BepInEx] Loading [Settings Fix 20.0]
+[Info   :   BepInEx] Loading [Fix UpdateWet Exceptions 20.0]
+[Info   :   BepInEx] Loading [HS2_LightprobesReset 1.1.0]
+[Info   :   BepInEx] Loading [HS2_QuickAccessBox 2.4.4]
+[Info   :   BepInEx] Loading [HS2_StudioAccessoryNames 1.1.0]
+[Info   :   BepInEx] Loading [HS2_StudioMiscSearch 1.2.0]
+[Info   :   BepInEx] Loading [HS2_UnlockPlayerHeight 1.4.3]
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A2AB5170.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A2AB81A0.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A2AB4160.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A2FB14B0.dll
+[Info   :   BepInEx] Loading [Yuri Plus Plugin 0.5]
+[Info   :   BepInEx] Loading [HS2 StudioNEOV2 VRPlugin 0.0.3]
+[Info   :HS2 StudioNEOV2 VRPlugin] Ignore loading VR. To load VR, specify '--studiovr' in commandline option.
+[Info   :   BepInEx] Loading [Clothes Overlay Mod 6.0.7]
+[Info   :   BepInEx] Loading [Clothes Overlay Mod GUI 6.0.7]
+[Info   :   BepInEx] Loading [DefaultStudioScene 1.0.2.0]
+[Info   :   BepInEx] Loading [Drag & Drop 1.2.7]
+[Info   :   BepInEx] Loading [Graphics Settings 1.2.1]
+[Info   :   BepInEx] Loading [HideAllUI 2.3.1]
+[Info   :   BepInEx] Loading [Item Layer Edit 1.1.0.0]
+[Info   :   BepInEx] Loading [KK_PregnancyPlus 7.6]
+[Info   :   BepInEx] Loading [Studio Character Sort 1.0.1]
+[Info   :   BepInEx] Loading [Hair Mesh for All 1.0.0]
+[Info   :   BepInEx] Loading [HS2 Studio Transform Orientation 1.1.2]
+[Info   :   BepInEx] Loading [HS2 Studio Voice X 1.0.0]
+[Info   :   BepInEx] Loading [Skin Overlay Mod GUI 6.0.7]
+[Info   :   BepInEx] Loading [MdgqBodyChange 1.0]
+[Info   :   BepInEx] Loading [Character Loader 1.4.2]
+OnLevelWasLoaded was found on CharLoaderPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+[Info   :   BepInEx] Loading [Clip Controller plugin 1.0]
+OnLevelWasLoaded was found on ClipCtrlPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+[Info   :   BepInEx] Loading [Map Controller plugin 1.2]
+[Info   :   BepInEx] Loading [Move Controller AI 1.8.0]
+OnLevelWasLoaded was found on MoveCtrlPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+[Info   :   BepInEx] Loading [Sceneloader plugin 1.1]
+OnLevelWasLoaded was found on SceneLoaderPlugin
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 356)
+
+[Info   :   BepInEx] Loading [Additional Accessory Controls 1.2.5]
+[Info   :   BepInEx] Loading [AdvIKPlugin 1.7.1]
+[Info   :   BepInEx] Loading [DynamicBonesGravityPlugin 1.0.3]
+[Info   :   BepInEx] Loading [FK Height Adjust UI 1.0.3]
+[Info   :   BepInEx] Loading [Outfit Painter 1.0.1]
+[Info   :   BepInEx] Loading [Studio Character Monitor 1.0.1]
+[Info   :   BepInEx] Loading [StudioCharaRefresh 1.0]
+[Info   :   BepInEx] Loading [TreeNodeNaming 1.1.1]
+[Info   :   BepInEx] Loading [LoadLog 0.0.2]
+[Info   :RockyScript] Loading RockyScript!
+[Info   :   BepInEx] Loading [SayNoToModChecker 1.0.0]
+[Info   :   BepInEx] Loading [Studio Camera Tweaks 1.0]
+[Info   :   BepInEx] Loading [Extra move axis in bottom right corner 2.0]
+[Info   :   BepInEx] Loading [Re CharaLoader 0.0.1]
+[Message:   BepInEx] Chainloader startup complete
+Unity.Console2: into RunThread
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unity.Console2: Unity.Console.Program Initialize 1
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script (Sirenix.Serialization.GlobalSerializationConfig) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+A scripted object (probably Sirenix.Serialization.GlobalSerializationConfig?) has a different serialization layout when loading. (Read 60 bytes but expected 88 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 2001)
+
+[Debug  :Modding API] SceneManager.activeSceneChanged - from  to Init
+[Debug  :Modding API] SceneManager.sceneLoaded - Init in 2 mode
+[Debug  :Cloth colliders support] Loading cloth collider data for aquan.bdo.test
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100006650
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_SiriDam01_L radius=0.9 center=(0.2, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1.1 center=(0.0, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1.1 center=(0.0, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_L radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_L radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_L radius=0.7 center=(0.0, 0.0, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_SiriDam01_R radius=0.9 center=(-0.2, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.1 center=(0.0, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.1 center=(0.0, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_R radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_R radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_R radius=0.7 center=(0.0, 0.0, -0.2)
+[Debug  :Cloth colliders support] Loading cloth collider data for aquan.firekeeper.acc
+[Debug  :Cloth colliders support] Found resolved ID: 2 => 100006667
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Spine03 radius=0.8 center=(0.0, -0.3, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Mune00_d_L radius=0.6 center=(-0.1, 0.1, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Spine03 radius=0.8 center=(0.0, -0.3, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Mune01_R radius=0.6 center=(0.0, 0.1, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Spine03 radius=0.8 center=(0.0, -0.3, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Shoulder02_s_L radius=0.5 center=(0.0, -0.2, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Spine03 radius=0.8 center=(0.0, -0.3, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Shoulder02_s_R radius=0.5 center=(0.0, -0.2, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Shoulder02_s_L radius=0.5 center=(0.0, -0.2, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Shoulder02_s_R radius=0.5 center=(0.0, -0.2, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for aquan.firekeeper.cloth
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100006669
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp02_dam_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Hand_L radius=0.3 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp02_dam_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Hand_R radius=0.3 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=0.9 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_L radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=0.9 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_R radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_SiriDam01_L radius=0.9 center=(0.2, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=0.9 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_SiriDam01_R radius=0.9 center=(-0.2, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=0.9 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for aquan.qipao.top
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100006673
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Spine02 radius=0.8 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi01_s radius=0.8 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_SiriDam_L radius=1.1 center=(0.4, -0.4, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1.1 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1.1 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_L radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_L radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_L radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_SiriDam_R radius=1.1 center=(-0.4, -0.4, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.1 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.1 center=(0.0, -1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_R radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_dam_R radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_R radius=0.7 center=(0.0, 0.0, -0.3)
+[Debug  :Cloth colliders support] Loading cloth collider data for aquan.test3.qing
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100006691
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Shoulder02_s_L radius=0.5 center=(0.0, -0.2, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp02_dam_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp02_dam_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_L radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Hand_L radius=0.3 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Shoulder02_s_R radius=0.5 center=(0.0, -0.2, -0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp02_dam_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp02_dam_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_dam_01_R radius=0.4 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Hand_R radius=0.3 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for Chunli Bottom
+[Debug  :Cloth colliders support] Found resolved ID: 102 => 100007706
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=1 center=(0.7, -0.5, -0.5)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_L radius=1.3 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_L radius=2 center=(0.0, 0.0, -0.5)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_R radius=1.8 center=(0.0, 0.0, 0.8)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1 center=(-0.1, -2.0, 0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.5 center=(-0.5, -1.8, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_L radius=1.2 center=(-0.1, 1.3, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_R radius=1.2 center=(-0.2, 1.3, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=1.2 center=(0.4, 0.2, 0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=1.2 center=(-0.4, 0.2, 0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=1 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Loading cloth collider data for com.nyaacho.bot.chinadress_physics
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100010899
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Kosi02_s radius=1.1 height=3.24 center=(0.0, -0.3, -0.2) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegLow01_s_L radius=0.62 height=6 center=(0.0, -1.7, -0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp01_s_L radius=0.86 height=3.22 center=(0.0, -0.5, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp02_s_L radius=0.78 height=4.94 center=(0.0, 0.0, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Siri_s_L radius=1.2 height=2.24 center=(0.3, -0.2, 0.8) direction=2
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegLow01_s_R radius=0.62 height=6 center=(0.0, -1.7, -0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp01_s_R radius=0.86 height=3.22 center=(0.0, -0.5, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp02_s_R radius=0.78 height=4.94 center=(0.0, 0.0, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Siri_s_R radius=1.11 height=2.24 center=(-0.3, -0.2, 0.8) direction=2
+[Debug  :Cloth colliders support] Found resolved ID: 1 => 100010900
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Kosi02_s radius=1.1 height=3.24 center=(0.0, -0.3, -0.2) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegLow01_s_L radius=0.62 height=6 center=(0.0, -1.7, -0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp01_s_L radius=0.86 height=3.22 center=(0.0, -0.5, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp02_s_L radius=0.78 height=4.94 center=(0.0, 0.0, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Siri_s_L radius=1.2 height=2.24 center=(0.3, -0.2, 0.8) direction=2
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegLow01_s_R radius=0.62 height=6 center=(0.0, -1.7, -0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp01_s_R radius=0.86 height=3.22 center=(0.0, -0.5, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp02_s_R radius=0.78 height=4.94 center=(0.0, 0.0, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Siri_s_R radius=1.11 height=2.24 center=(-0.3, -0.2, 0.8) direction=2
+[Debug  :Cloth colliders support] Loading cloth collider data for com.nyaacho.bot.pleatedskirt_physics
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100010901
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Kosi02_s radius=1.06 height=3.27 center=(0.0, -0.4, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegLow01_s_L radius=0.62 height=6 center=(0.0, -1.7, -0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegLow01_s_R radius=0.62 height=6 center=(0.0, -1.7, -0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp01_s_L radius=1.05 height=3.52 center=(0.1, -0.3, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp01_s_R radius=1.05 height=3.52 center=(-0.1, -0.3, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp02_s_L radius=0.78 height=4.94 center=(0.0, 0.0, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp02_s_R radius=0.78 height=4.94 center=(0.0, 0.0, 0.1) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Siri_s_L radius=1.2 height=1.65 center=(0.3, -0.2, 0.8) direction=2
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Siri_s_R radius=1.2 height=1.65 center=(-0.3, -0.2, 0.8) direction=2
+[Debug  :Cloth colliders support] Loading cloth collider data for Daehdra cape
+[Debug  :Cloth colliders support] Found resolved ID: 625 => 100016378
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_L radius=-1.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_R radius=-1.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_low_s_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_low_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow01_L radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow02_s_L radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow02_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi01 radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=-2 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi03 radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_back_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_back_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for dhh.clothes.BalletSkirt
+[Debug  :Cloth colliders support] Found resolved ID: 871 => 100017836
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp00_L radius=1 height=5.14 center=(0.0, -1.4, 0.0) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_LegUp00_R radius=1 height=5.14 center=(0.0, -1.4, 0.0) direction=1
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_ArmLow01_R radius=0.4 height=4.85 center=(1.3, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_ArmLow01_L radius=0.4 height=4.85 center=(-1.3, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Loading cloth collider data for DMG Full
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100018651
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.87 center=(0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.85 center=(0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02_s radius=0.9 center=(0.0, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.87 center=(-0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.85 center=(-0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100018651
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.87 center=(0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.85 center=(0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02_s radius=0.9 center=(0.0, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.87 center=(-0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.85 center=(-0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100018651
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_L radius=0.45 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow01_s_L radius=0.35 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_R radius=0.45 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow01_s_R radius=0.35 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine01_s radius=0.9 height=2.5 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine02_s radius=0.9 height=2.2 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine03_s radius=1 height=2.5 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100018654
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.87 center=(0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.85 center=(0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_L radius=0.97 center=(0.3, 0.0, 0.7)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.87 center=(0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02_s radius=0.9 center=(0.0, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.87 center=(-0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.85 center=(-0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_R radius=0.97 center=(-0.3, 0.0, 0.7)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.87 center=(-0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Kosi01_s radius=0.75 height=2.8 center=(0.0, -0.4, -0.3) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine01_s radius=0.9 height=2.5 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine02_s radius=0.9 height=2.2 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine03_s radius=1 height=2.5 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Loading cloth collider data for DMG-Test
+[Debug  :Cloth colliders support] Found resolved ID: 9915 => 100018660
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.87 center=(0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.85 center=(0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_L radius=0.97 center=(0.3, 0.0, 0.7)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.87 center=(0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02_s radius=0.9 center=(0.0, -0.2, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.87 center=(-0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.85 center=(-0.1, 0.0, -0.3)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_R radius=0.97 center=(-0.3, 0.0, 0.7)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.87 center=(-0.1, -0.3, 0.1)
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Kosi01_s radius=0.75 height=2.8 center=(0.0, -0.4, -0.3) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine01_s radius=0.9 height=2.5 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine02_s radius=0.9 height=2.2 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Spine03_s radius=1 height=2.5 center=(0.0, 0.0, 0.0) direction=0
+[Debug  :Cloth colliders support] Loading cloth collider data for doa_goddess_skirt
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100018673
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_L radius=1 center=(0.2, -0.2, 0.8)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUpDam_s_L radius=0.1 center=(0.1, -1.4, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.9 center=(0.0, -0.4, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_L radius=0.9 center=(0.0, -0.4, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_s_L radius=0.73 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_s_L radius=0.73 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp03_s_L radius=0.7 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp03_s_L radius=0.6 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.53 center=(0.0, -0.1, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.53 center=(0.0, -0.1, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_s_L radius=0.66 center=(-0.1, -1.4, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_s_L radius=0.66 center=(-0.1, -1.4, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow02_s_L radius=0.56 center=(-0.1, 0.0, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow02_s_L radius=0.56 center=(-0.1, 0.0, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow03_s_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_R radius=1 center=(-0.2, -0.2, 0.8)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUpDam_s_R radius=0.1 center=(-0.1, -1.4, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.9 center=(0.0, -0.4, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_s_R radius=0.9 center=(0.0, -0.4, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_s_R radius=0.73 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_s_R radius=0.73 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp03_s_R radius=0.7 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp03_s_R radius=0.6 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.53 center=(0.0, -0.1, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.53 center=(0.0, -0.1, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_s_R radius=0.66 center=(0.1, -1.4, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_s_R radius=0.66 center=(0.1, -1.4, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow02_s_R radius=0.56 center=(0.1, 0.0, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow02_s_R radius=0.56 center=(0.1, 0.0, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow03_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp03_s_R radius=0.6 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.53 center=(0.0, -0.1, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot02_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Toes01_R radius=0.4 center=(0.0, 0.0, 0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot02_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Toes01_L radius=0.4 center=(0.0, 0.0, 0.2)
+[Debug  :Cloth colliders support] Added CapsuleCollider: boneName=cf_J_Kosi02_s radius=1.14 height=3.12 center=(0.0, 0.0, -0.1) direction=0
+[Debug  :Cloth colliders support] Loading cloth collider data for Ekialys skirt
+[Debug  :Cloth colliders support] Found resolved ID: 110 => 100019473
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot02_L radius=2 center=(0.0, 1.3, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot02_R radius=2 center=(0.0, 1.3, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_L radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_R radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_L radius=1.2 center=(0.0, 1.0, -0.5)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_R radius=1.2 center=(0.0, 1.0, -0.5)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1 center=(-0.1, -1.1, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1 center=(0.1, -1.1, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_L radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_R radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=0.6 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=0.6 center=(0.0, 0.0, 0.1)
+[Debug  :Cloth colliders support] Loading cloth collider data for GDC Light armor
+[Debug  :Cloth colliders support] Found resolved ID: 630 => 100020160
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_L radius=-1.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_R radius=-1.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_low_s_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmElbo_low_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow01_L radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow02_s_L radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmLow02_s_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_ArmUp00_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi01 radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=-2 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi03 radius=-1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_back_L radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_back_R radius=0.5 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for Josie Takken 7 skirt
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100027020
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=1.4 center=(0.0, -0.4, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1.2 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.2 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_L radius=1.5 center=(0.0, 0.4, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_R radius=1.5 center=(0.0, 0.4, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=1.2 center=(0.3, 0.0, 0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=1.2 center=(-0.3, 0.0, 0.2)
+[Debug  :Cloth colliders support] Loading cloth collider data for tempting jump suit
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100043233
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_L radius=0.6 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot01_R radius=0.6 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for Void Suit-X  coat
+[Debug  :Cloth colliders support] Found resolved ID: 32 => 100044140
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot02_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Foot02_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=1 center=(0.0, -0.7, 0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=0 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Loading cloth collider data for Zodiac Sexy outfit
+[Debug  :Cloth colliders support] Found resolved ID: 0 => 100045661
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Kosi02 radius=1.35 center=(0.0, 0.0, -0.2)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_L radius=1.5 center=(0.0, 0.3, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLow01_R radius=1.5 center=(0.0, 0.3, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegLowRoll_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_L radius=1.3 center=(0.0, -0.5, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp01_R radius=1.3 center=(0.0, -0.5, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_L radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegUp02_R radius=1 center=(0.0, 0.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_L radius=1 center=(0.0, -0.1, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_Siri_R radius=1 center=(0.0, -0.1, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_L radius=1 center=(0.0, 1.0, 0.0)
+[Debug  :Cloth colliders support] Added SphereCollider: boneName=cf_J_LegKnee_low_s_R radius=1 center=(0.0, 1.0, 0.0)
+[Info   :Cloth colliders support] Found collider datas for 21 items
+AdditionalFKNodes: Trying to patch methods...
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: UncensorSelector found, trying to patch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: UncensorSelector patched ReloadCharacterBody correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: UncensorSelector patched ReloadCharacterPenis correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: UncensorSelector patched ReloadCharacterBalls correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Studio_BetterPenetration: patched UncensorSelector::ReloadCharacterBody correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Studio_BetterPenetration: patched UncensorSelectorController::ReloadCharacterBalls correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Studio_BetterPenetration: patched NodeConstraints::AddConstraint correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Studio_BetterPenetration: patched NodeConstraints::ApplyNodesConstraints correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Studio_BetterPenetration: patched NodeConstraints::ApplyConstraints correctly
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Info   :  PlayBoop] enable PlayPoop
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A4E6CB40.dll
+[Info   :  HS2Heelz] [Heelz] Heels mode activated: destroy all foot
+[Info   :DHH Mad World] DHH Mad World Created. Have fun!
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A4E6DB50.dll
+aaaaaaaaaaaaaaaaa
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Info   :KK_PregnancyPlus] Could not find HSPE.AMModules.BlendShapesEditor, This is not an issue, but you won't be able to use the BlendShape GUI integration with Timeline/VNGE
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libdl
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libdl.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libdl
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libdl
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libdl.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libdl
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libc
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libc.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/libc
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A4E7EC60.dll
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2e18 -> priority: 1 
+  Thread -> id: 4708 -> priority: 1 
+  Thread -> id: 5eec -> priority: 1 
+[Info   :XUnity.Common] Skipping plugin scan because no plugin-specific translations has been registered.
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A2AAE100.dll
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 5 Unused Serialized files (Serialized files now loaded: 76)
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A2AAB0D0.dll
+Fallback handler could not load library D:/Kit_HS2_V1.2.3.695G/AMD_YES/HoneySelect2_ArcticFox_Ver.1.0.1.6/StudioNEOV2_Data/Mono/data-00000225A94710E0.dll
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_basement.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Basement.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_bedroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Bedroom.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_classroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Classroom.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_computerclassroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Computer Classroom.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_girlgamerroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Girl Gamer Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_kitchen.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Kitchen v1.0.0.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_modernlivingroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Modern Living Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_modernoffice2.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Modern Office 2.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_morgueroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Morgue Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_pcalley.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PC Alley.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_pcjapaneseroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PC Japanese Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_pcpark.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PC Park.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_pcwesternroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PC Western Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phakikoroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Akiko Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phbedroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Bedroom.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phentrance.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Entrance.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phlivingroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Living Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phritsukoroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Ritsuko Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phsubway.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Subway.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phsubwaynight.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Subway Night.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phwashroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Washroom.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_phyard.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] PH Yard.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_sakuraroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Sakura Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_slums.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Slums.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_undergroundroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Underground Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/map/list/mapinfo/map_victoriasroom.unity3d" (PersonalMods_Done\PersonalMods - Maps (HS2 Game)\2155X\[2155X] Victorias Room.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/nxtg-shaders.unity3d" (PersonalMods - ME Shaders\[Hanmen] Next-Gen Skin Shader_2.0.0.zipmod) unity3d file from disk, loading to RAM instead
+[Warning:Material Editor] Unable to load shader: Hanmen/Condom Shader
+[Debug  :Sideloader] Cannot stream "abdata/chara/nxtg-hair.unity3d" (PersonalMods - ME Shaders\[Hanmen] Next-Gen Skin Shader_2.0.0.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/afox/Decal_Alpha.unity3d" (PersonalMods - ME Shaders\[ArcticFox] Alloy_NewAdd_Shader.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/afox/TwoSided_Forward.unity3d" (PersonalMods - ME Shaders\[ArcticFox] Alloy_NewAdd_Shader.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/afox/Panty_Hose.unity3d" (PersonalMods - ME Shaders\[ArcticFox] FFFQ_NewAdd_Shader.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/afox/New_Unlit.unity3d" (PersonalMods - ME Shaders\[ArcticFox] FFFQ_NewAdd_Shader.zipmod) unity3d file from disk, loading to RAM instead
+The referenced script (EyeAdv_AutoDilation) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object 'advanced') is missing!
+ 
+(Filename:  Line: 294)
+
+The referenced script (EyeAdv_AutoDilation) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object 'compatible') is missing!
+ 
+(Filename:  Line: 294)
+
+[Debug  :Sideloader] Cannot stream "abdata/chara/aniso_shaders.unity3d" (PersonalMods - ME Shaders\[Hanmen] Anisotropic Shaders.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/cloth_asset.unity3d" (PersonalMods - ME Shaders\[Hanmen] Cloth Shaders_1.6.0.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/shader_framework.unity3d" (PersonalMods_Done\PersonalMods - ME Shaders\[Hanmen] Pantyhose Shader.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/hooh/minimod_august/condom_mats.unity3d" (PersonalMods - Studio\Studio - Common\hooh\[Hooh] minimod_august_20200825.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/slime.unity3d" (PersonalMods - ME Shaders\[King] slime.zipmod) unity3d file from disk, loading to RAM instead
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\PersonalMods_Done\PersonalMods - ME Shaders\[SPMod] TwoSided (Forward)-rera Shader.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\PersonalMods_Done\PersonalMods - ME Shaders\[SPMod] TwoSided (Forward)-rera Shader.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+Node 'CAB-0b44142323674c2b828e307a88121fe6.resS' overlaps with existing node 'CAB-0b44142323674c2b828e307a88121fe6' in the archive
+ 
+(Filename:  Line: 271)
+
+
+Unloading 975 unused Assets to reduce memory usage. Loaded Objects now: 4479.
+Total: 317.607900 ms (FindLiveObjects: 0.353900 ms CreateObjectMapping: 0.060900 ms MarkObjects: 315.546300 ms  DeleteObjects: 1.646400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 107)
+[Debug  :Modding API] SceneManager.sceneUnloaded - Init
+UnloadTime: 1.827100 ms
+[Debug  :Sideloader] Loading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Modding API] SceneManager.activeSceneChanged - from  to StudioStart
+[Debug  :Modding API] SceneManager.sceneLoaded - StudioStart in Single mode
+
+Unloading 879 unused Assets to reduce memory usage. Loaded Objects now: 151912.
+Total: 435.983200 ms (FindLiveObjects: 9.377600 ms CreateObjectMapping: 1.574000 ms MarkObjects: 424.491100 ms  DeleteObjects: 0.539700 ms)
+
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Debug  :IllusionFixes] Starting unused asset cleanup
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/Uber' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/PostProcessing/FinalPass' - Pass '' has no vertex shader
+Unloading 4 Unused Serialized files (Serialized files now loaded: 136)
+[Debug  :IllusionFixes] Starting full garbage collection
+[Debug  :Modding API] SceneManager.sceneUnloaded - StudioStart
+UnloadTime: 79.071100 ms
+[Debug  :Sideloader] Loading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Info   :      VNGE] AutoTranslator fix applied. New IgnoreTextStartingWith Array[str]((u'\u180e', ':', '-'))
+[Debug  :Modding API] SceneManager.activeSceneChanged - from  to Studio
+[Debug  :Modding API] SceneManager.sceneLoaded - Studio in Single mode
+The AssetBundle 'Memory' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] Could not load an in-memory asset bundle (Unnamed) likely due to conflicting CAB-string. Retrying with randomized CAB-string.
+CaptionText: Write time
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Info   :DHH Mad World] DHH needs to Re-Init. Scene:Studio
+
+Unloading 8813 unused Assets to reduce memory usage. Loaded Objects now: 192325.
+Total: 580.325400 ms (FindLiveObjects: 12.684100 ms CreateObjectMapping: 2.731800 ms MarkObjects: 559.348400 ms  DeleteObjects: 5.560200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 136)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 192325.
+Total: 580.559500 ms (FindLiveObjects: 12.654000 ms CreateObjectMapping: 2.571700 ms MarkObjects: 565.066300 ms  DeleteObjects: 0.266600 ms)
+
+[Debug  :HS2_QuickAccessBox] Starting item information load thread
+[Info   :DHH Mad World] Studio >>>>> is Current Scene, Ready to Init DHH...
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=helicopter group=1003 category=3 itemNo=100021538 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=giantsnake1 group=1003 category=3 itemNo=100020511 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_facade01 group=1003 category=6 itemNo=100006993 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_facade02 group=1003 category=6 itemNo=100006994 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_facade03 group=1003 category=6 itemNo=100006995 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_facade04 group=1003 category=6 itemNo=100006996 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_facade05 group=1003 category=6 itemNo=100006997 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_final_boss1 group=1003 category=6 itemNo=100006998 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_pyramid01 group=1003 category=6 itemNo=100006999 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_pyramid02 group=1003 category=6 itemNo=100007000 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_pyramid03 group=1003 category=6 itemNo=100007001 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall1 group=1003 category=6 itemNo=100007013 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall2 group=1003 category=6 itemNo=100007014 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wallend1 group=1003 category=6 itemNo=100007015 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall_long_seg1 group=1003 category=6 itemNo=100007012 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall_divider1 group=1003 category=6 itemNo=100007011 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall_curved1 group=1003 category=6 itemNo=100007010 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall_corner1 group=1003 category=6 itemNo=100007009 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall__verticleangle group=1003 category=6 itemNo=100007008 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_wall__sideangle group=1003 category=6 itemNo=100007007 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_stairs1 group=1003 category=6 itemNo=100007005 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_stairs2 group=1003 category=6 itemNo=100007006 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_stairs_lg1 group=1003 category=6 itemNo=100007003 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_stairs_sm1 group=1003 category=6 itemNo=100007004 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_bridgeb1 group=1003 category=6 itemNo=100006992 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=azjol_spiderarch1 group=1003 category=6 itemNo=100007002 - Invalid category number
+[Info   :DHH Mad World] SSS data loaded!
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\PersonalMods - ME Shaders\[Hanmen] Next-Gen Skin Shader_2.0.0.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\PersonalMods - ME Shaders\[Hanmen] Next-Gen Skin Shader_2.0.0.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=ram_coat group=101 category=35857 itemNo=100037812 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=ram_hat group=101 category=35857 itemNo=100037813 - Invalid group number
+[Info   :DHH Mad World] Start to load bluenoise.png
+Setting SSS layer from Nothing to Default
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑1 group=6596 category=5 itemNo=100028910 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑2 group=6596 category=5 itemNo=100028911 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑3 group=6596 category=5 itemNo=100028912 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑4 group=6596 category=5 itemNo=100028913 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑5 group=6596 category=5 itemNo=100028914 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑6 group=6596 category=5 itemNo=100028915 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑7 group=6596 category=5 itemNo=100028916 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑8 group=6596 category=5 itemNo=100028917 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=剑9 group=6596 category=5 itemNo=100028918 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=弓1 group=6596 category=5 itemNo=100028919 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=弓2 group=6596 category=5 itemNo=100028920 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=戟 group=6596 category=5 itemNo=100028921 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=箭 group=6596 category=5 itemNo=100028922 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=杖 group=6596 category=5 itemNo=100028923 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=水 group=6596 category=5 itemNo=100028924 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=magic group=6596 category=5 itemNo=100028925 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=盾1 group=6596 category=5 itemNo=100028926 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=盾2 group=6596 category=5 itemNo=100028927 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=辞 group=6596 category=5 itemNo=100028928 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=镰 group=6596 category=5 itemNo=100028929 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=一 group=6596 category=5 itemNo=100028930 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪 group=6596 category=5 itemNo=100033617 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪（长） group=6596 category=5 itemNo=100033618 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪（全） group=6596 category=5 itemNo=100033619 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪（特效） group=6596 category=5 itemNo=100033620 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪鞘 group=6596 category=5 itemNo=100033621 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=接枪小人 group=6596 category=5 itemNo=100033622 - Invalid category number
+[Info   :DHH Mad World] DHH Inited!
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=ears group=1172 category=1 itemNo=100019414 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Helmet7k group=1935 category=1 itemNo=100020186 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Gjel group=169 category=1 itemNo=100020515 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Gjel2 group=1857 category=1 itemNo=100020517 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Gjel3 group=1856 category=1 itemNo=100020519 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Gjel4 group=1858 category=1 itemNo=100020521 - Invalid group number
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=silicon group=1017 category=110 itemNo=100026471 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=KKS 灯笼耳坠 group=1219 category=1 itemNo=100028274 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=KKS 团扇 group=1219 category=1 itemNo=100028275 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=KKS KKS 水手服连衣裙 帽子 group=1219 category=2 itemNo=100028276 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=KKS 水手服连衣裙 帽徽 group=1219 category=2 itemNo=100028277 - Invalid group number
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪 group=65965 category=5 itemNo=100033631 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪（长） group=65965 category=5 itemNo=100033632 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪（全） group=65965 category=5 itemNo=100033633 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪（特效） group=65965 category=5 itemNo=100033634 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=冷晖枪鞘 group=65965 category=5 itemNo=100033635 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=接枪小人 group=65965 category=5 itemNo=100033636 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Widow Hair group=1521 category=1 itemNo=100035971 - Invalid group number
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Wardrobe group=420 category=5 itemNo=100006515 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=LSD Tabs Smiley group=1002 category=14 itemNo=100035502 - Invalid category number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=jtsl group=1258 category=1 itemNo=100027091 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Summer time sofa group=6931 category=5932 itemNo=100042495 - Invalid group number
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Widow Diadema group=1268 category=1 itemNo=100044371 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Widow Hair bottom group=1652 category=1 itemNo=100044374 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Widow Helmet group=532 category=1 itemNo=100044376 - Invalid group number
+[Warning:HS2_QuickAccessBox] Failed to load information about item: name=Widow weapon group=1526 category=1 itemNo=100044380 - Invalid group number
+[Debug  :HS2_QuickAccessBox] Item information loading finished in 1477ms - 24019 valid items found
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+The AssetBundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' can't be loaded because another AssetBundle with the same files is already loaded.
+ 
+(Filename:  Line: 451)
+
+[Warning:XUnity.Common] The asset bundle 'D:\Kit_HS2_V1.2.3.695G\AMD_YES\HoneySelect2_ArcticFox_Ver.1.0.1.6\mods\mymodss\[3dh9527] New_HposUnlock_A.zipmod' could not be loaded likely due to conflicting CAB-string. Retrying in-memory with randomized CAB-string.
+[Debug  :Sideloader] Loading card [AISChaF_20191116194427422举个栗子.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [渭渭-fate-远坂凛.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [渭渭-saber-3.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [渭渭-saber-1.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [渭渭-saber-2.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [阿尔托莉雅▪卡斯特.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [fate-grand-order-玉藻前.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 17
+[Debug  :Sideloader] Loading card [AISChaF_20191130122924738.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [AISChaF_20191130122859831.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [AISChaF_20191130122720326.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [HS2ChaF_20210726171505188.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20210523193637503.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115182227086.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115200323197.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [僵尸赖光白皮.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 12
+[Debug  :Sideloader] Loading card [Box_34702.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [ba969837c1e26abc033703810737112d2a4adab0.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 18
+[Debug  :Sideloader] Loading card [AI_116793.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Warning:Sideloader] Outdated zipmod! Some items are missing! - <not set>
+[Warning:Sideloader] [UAR] WARNING! Outdated mod detected! [<not set>]  
+[Debug  :Sideloader] Loading card [AI_116781.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 10
+[Debug  :Sideloader] Missing mod detected [hooh.clothes.hori.skirt000] but matching ID found
+[Debug  :Sideloader] Loading card [AI_117168.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [AI_117166.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 14
+[Debug  :Sideloader] Loading card [AI_116733.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [HS2ChaF_20200826205938510.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20210606061637295.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [HS2ChaF_20201118213438847.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [HS2ChaF_20210623192203785.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 1
+[Debug  :Sideloader] Loading card [Box_Chara_23010.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 16
+[Debug  :Sideloader] Loading card [Box_Chara_26348.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [Box_Chara_27107.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 13
+[Debug  :Sideloader] Loading card [Box_Chara_26962.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 14
+[Debug  :Sideloader] Loading card [Box_Chara_25987.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 32
+[Debug  :Sideloader] Loading card [HS2ChaF_20210302011033817.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [Box_Chara_20518.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [HS2ChaF_20210512140832472.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20200729211102687.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20200717205803932.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [HS2ChaF_20200730005923683.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201229110854963.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [HS2ChaF_20200710115316214.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20200731190109155.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20201107220646465.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [兔女郎师匠.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201216102450581.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [AISChaF_20200327000727952.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [AISChaF_20200709181400490.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [AISChaF_20200608034414670.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [AISChaF_20200424235954077.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 16
+[Debug  :Sideloader] Loading card [AISChaF_20200305031818125.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [Fate Grand Order 杀阶小玉.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [AISChaF_20191116194427422举个栗子.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [渭渭-fate-远坂凛.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [渭渭-saber-3.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [渭渭-saber-1.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [渭渭-saber-2.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [阿尔托莉雅▪卡斯特.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [fate-grand-order-玉藻前.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 17
+[Debug  :Sideloader] Loading card [AISChaF_20191130122924738.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [AISChaF_20191130122859831.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [AISChaF_20191130122720326.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [HS2ChaF_20210726171505188.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20210523193637503.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115182227086.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115200323197.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [僵尸赖光白皮.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 12
+[Debug  :Sideloader] Loading card [Box_34702.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [ba969837c1e26abc033703810737112d2a4adab0.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 18
+[Debug  :Sideloader] Loading card [AI_116793.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Warning:Sideloader] Outdated zipmod! Some items are missing! - <not set>
+[Warning:Sideloader] [UAR] WARNING! Outdated mod detected! [<not set>]  
+[Debug  :Sideloader] Loading card [AI_116781.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 10
+[Debug  :Sideloader] Missing mod detected [hooh.clothes.hori.skirt000] but matching ID found
+[Debug  :Sideloader] Loading card [AI_117168.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [AI_117166.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 14
+[Debug  :Sideloader] Loading card [AI_116733.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [HS2ChaF_20200826205938510.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20210606061637295.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [HS2ChaF_20201118213438847.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [HS2ChaF_20210623192203785.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 1
+[Debug  :Sideloader] Loading card [Box_Chara_23010.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 16
+[Debug  :Sideloader] Loading card [Box_Chara_26348.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [Box_Chara_27107.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 13
+[Debug  :Sideloader] Loading card [Box_Chara_26962.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 14
+[Debug  :Sideloader] Loading card [Box_Chara_25987.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 32
+[Debug  :Sideloader] Loading card [HS2ChaF_20210302011033817.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [Box_Chara_20518.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [HS2ChaF_20210512140832472.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20200729211102687.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20200717205803932.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [HS2ChaF_20200730005923683.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201229110854963.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [HS2ChaF_20200710115316214.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20200731190109155.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20201107220646465.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [兔女郎师匠.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201216102450581.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [AISChaF_20200327000727952.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [AISChaF_20200709181400490.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [AISChaF_20200608034414670.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [AISChaF_20200424235954077.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 16
+[Debug  :Sideloader] Loading card [AISChaF_20200305031818125.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [Fate Grand Order 杀阶小玉.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [五十嵐 美和]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Modding API] Character card load: 五十嵐 美和 
+[Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named Heels.Values
+[Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named Heels.Struct.HeelsConfig
+[Debug  :Sideloader] Loading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 2 Unused Serialized files (Serialized files now loaded: 169)
+[Debug  :Sideloader] Cannot stream "abdata/studio/base/00.unity3d" (PersonalMods_Done\PersonalMods - Exclusive HS2\AFox Modpack\[Stinger722] illusion_hs2_boobs & floor collider.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_base.unity3d" (PersonalMods - Exclusive HS2\Uncensor Selector\[ArcticFox][HS2]Munc_mosaic_removal_patch.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Skin Overlay Mod] Loading shader Eye from resources
+[Debug  :Sideloader] Cannot stream "abdata/chara/kyokuchi_mod/kyokuchi_lolitagaogenxie001.unity3d" (PersonalMods_Done\PersonalMods\Kyokuchi\[kyokuchi] lolitagaogenxie001.zipmod) unity3d file from disk, loading to RAM instead
+[Warning:Modding API] event:OnReload  chara:chaF_001  currentGameMode:Studio  maintainState:False
+[Info   :Skin Overlay Mod] Reading legacy overlay data
+[Debug  :Mod Bone Implantor] Found 13 instances of BoneImplantProcess. In total 93 bones were implanted.
+AdditionalFKNodes: Loaded additional_fknodes TextAsset from chara/oo_base_bpsacmeaty_v2.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10000	cf_J_Toes_Hallux1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10001	cf_J_Toes_Hallux2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10002	cf_J_Toes_Long1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10003	cf_J_Toes_Long2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10004	cf_J_Toes_Middle1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10005	cf_J_Toes_Middle2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10006	cf_J_Toes_Ring1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10007	cf_J_Toes_Ring2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10008	cf_J_Toes_Pinky1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10009	cf_J_Toes_Pinky2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10010	cf_J_Toes_Hallux1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10011	cf_J_Toes_Hallux2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10012	cf_J_Toes_Long1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10013	cf_J_Toes_Long2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10014	cf_J_Toes_Middle1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10015	cf_J_Toes_Middle2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10016	cf_J_Toes_Ring1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10017	cf_J_Toes_Ring2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10018	cf_J_Toes_Pinky1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10019	cf_J_Toes_Pinky2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_BP_Full_Horse_Penis.unity3d" (Sideloader Modpack\MyMods\BetterPenetration\[Male][BP][FutaBoy_Animal42069]Full_Horse_Uncensor.zipmod) unity3d file from disk, loading to RAM instead
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_Full_Horse_Penis.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset bp_full_horse_penis
+bp_full_horse_penis	cm_J_dan103_00	cm_J_dan105_00	cm_J_dan107_00	k_f_dan_entry	k_f_dan_end	cm_J_dan_f_topup	cm_J_dan_f_Left	cm_J_dan_f_Right	cm_J_dan_Pivot_f_L	cm_J_dan_Pivot_f_R	cm_J_dan_Pivot_f_top
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_base_BP_Cur_m02tama.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset p_cm_body_00
+p_cm_body_00	cm_J_dan_Pivot_f_L	cm_J_dan_Pivot_f_R	cm_J_dan_Pivot_f_top		
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Skin Overlay Mod] Loading shader composite from resources
+
+Unloading 15041 unused Assets to reduce memory usage. Loaded Objects now: 239927.
+Total: 696.310800 ms (FindLiveObjects: 16.797000 ms CreateObjectMapping: 6.479400 ms MarkObjects: 667.122300 ms  DeleteObjects: 5.911300 ms)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :IllusionFixes] Starting full garbage collection
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Message:Studio Custom Masking] The mask will not work until you turn on [system\Scene Effects\Map Masking]!
+[Message:Studio Custom Masking] The mask will not work until you turn on [system\Scene Effects\Map Masking]!
+[Message:Studio Custom Masking] The mask will not work until you turn on [system\Scene Effects\Map Masking]!
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Message:  Timeline] Nothing to play. Right click to open the Timeline window.
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 2 Unused Serialized files (Serialized files now loaded: 220)
+[Debug  :Modding API] Character save: 渭渭-洛丽塔-白羊
+[Warning:Modding API] event:OnCardBeingSaved  chara:chaF_001  currentGameMode:Studio
+[Debug  :Animation Controller] Saved KK_AnimationController animations for character 渭渭-洛丽塔-白羊
+[Warning:Modding API] Tried to save card before it was loaded - 洛丽塔 -白羊.png
+[Debug  :Sideloader] Reloading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] External info count: 8
+[Warning, Message:Modding API] OnSceneSave
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 246658.
+Total: 696.210600 ms (FindLiveObjects: 15.093600 ms CreateObjectMapping: 3.067000 ms MarkObjects: 676.988000 ms  DeleteObjects: 1.061200 ms)
+
+[Debug  :Modding API] SceneManager.sceneLoaded - StudioNotification in Additive mode
+[Debug  :Modding API] SceneManager.sceneUnloaded - StudioNotification
+[Debug  :Sideloader] Loading card [存档用]
+[Debug  :Sideloader] Sideloader marker found, external info count: 12
+[Debug  :Sideloader] Loading card [主人公]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Modding API] Character card load: 存档用 
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 3 Unused Serialized files (Serialized files now loaded: 220)
+[Debug  :Sideloader] Cannot stream "abdata/chara/boy2239/boy2239hairf32.unity3d" (PersonalMods_Done\PersonalMods\Boy2239\[Boy2239]Hairsf32.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/demx/demx_panst02.unity3d" (PersonalMods_Done\PersonalMods\demx\[demx] Pantyhose02.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Modding API] Character card load: 主人公 
+[Debug  :Sideloader] Cannot stream "abdata/chara/ymd/ym11_hairPortM.unity3d" (PersonalMods_Done\PersonalMods\Yamadamod\[Yamadamod] ai11hairPortM.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :HairMeshforAll] ct_hairB mesh enabled
+[Warning, Message:Modding API] OnSceneLoad Import - 10
+[Debug  :Animation Controller] Loaded KK_AnimationController animations for character 存档用
+[Debug  :Animation Controller] Loaded KK_AnimationController animations for character 主人公
+[Warning:Modding API] event:OnReload  chara:chaF_002  currentGameMode:Studio  maintainState:False
+[Debug  :Mod Bone Implantor] Found 13 instances of BoneImplantProcess. In total 93 bones were implanted.
+AdditionalFKNodes: Loaded additional_fknodes TextAsset from chara/Anacs01.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10000	cf_J_Toes_Hallux1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10001	cf_J_Toes_Hallux2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10002	cf_J_Toes_Long1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10003	cf_J_Toes_Long2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10004	cf_J_Toes_Middle1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10005	cf_J_Toes_Middle2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10006	cf_J_Toes_Ring1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10007	cf_J_Toes_Ring2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10008	cf_J_Toes_Pinky1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10009	cf_J_Toes_Pinky2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10010	cf_J_Toes_Hallux1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10011	cf_J_Toes_Hallux2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10012	cf_J_Toes_Long1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10013	cf_J_Toes_Long2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10014	cf_J_Toes_Middle1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10015	cf_J_Toes_Middle2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10016	cf_J_Toes_Ring1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10017	cf_J_Toes_Ring2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10018	cf_J_Toes_Pinky1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10019	cf_J_Toes_Pinky2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_BP_Alien_Uncensor_A-1.unity3d" (Sideloader Modpack\MyMods\BetterPenetration\[Male][BP][FutaBoy_Animal42069]Alien_Uncensors.zipmod) unity3d file from disk, loading to RAM instead
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_Alien_Uncensor_A-1.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset bp_alien_penis_a1
+bp_alien_penis_a1	cm_J_dan103_00	cm_J_dan105_00	cm_J_dan107_00	k_f_dan_entry	k_f_dan_end
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_Alien_Uncensor_A-1.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset bp_alien_balls_a1
+bp_alien_balls_a1	cm_J_dan_Pivot_f_L	cm_J_dan_Pivot_f_R	cm_J_dan_Pivot_f_top		
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script (NormalData) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+[Warning:Modding API] event:OnReload  chara:chaM_001  currentGameMode:Studio  maintainState:False
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_base.unity3d" (PersonalMods_Done\PersonalMods - Exclusive HS2\AFox Modpack\[Stinger722] illusion_hs2_boobs & floor collider.zipmod) unity3d file from disk, loading to RAM instead
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_BP_TAMA_Cur_m03.unity3d" (Sideloader Modpack\MyMods\BetterPenetration\[Male][BP][TAMA_Cur]MaleUncensorForSelector v4.0.zipmod) unity3d file from disk, loading to RAM instead
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_TAMA_Cur_m03.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset TAMA_Cur_pole3
+TAMA_Cur_pole3	cm_J_dan103_00	cm_J_dan105_00	cm_J_dan107_00	k_f_dan_entry	k_f_dan_end
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_BP_Unknown_Uncensor.unity3d" (Sideloader Modpack\MyMods\BetterPenetration\[Male][BP][FutaBoy_Animal42069]Real_Uncensors.zipmod) unity3d file from disk, loading to RAM instead
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_Unknown_Uncensor.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset bp_balls
+bp_balls	cm_J_dan_Pivot_f_L	cm_J_dan_Pivot_f_R	cm_J_dan_Pivot_f_top		
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 25372 unused Assets to reduce memory usage. Loaded Objects now: 150629.
+Total: 881.119600 ms (FindLiveObjects: 10.986300 ms CreateObjectMapping: 3.744400 ms MarkObjects: 808.359900 ms  DeleteObjects: 58.028300 ms)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :IllusionFixes] Starting full garbage collection
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 1 Unused Serialized files (Serialized files now loaded: 262)
+[Debug  :Modding API] Character save: 渭渭-洛丽塔-白羊
+[Warning:Modding API] event:OnCardBeingSaved  chara:chaF_001  currentGameMode:Studio
+[Debug  :Animation Controller] Saved KK_AnimationController animations for character 渭渭-洛丽塔-白羊
+[Warning:Modding API] Tried to save card before it was loaded - 洛丽塔 -白羊.png
+[Debug  :Sideloader] Reloading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] External info count: 8
+[Debug  :Modding API] Character save: 存档用
+[Warning:Modding API] event:OnCardBeingSaved  chara:chaF_002  currentGameMode:Studio
+[Debug  :Animation Controller] Saved KK_AnimationController animations for character 存档用
+[Warning:Modding API] Tried to save card before it was loaded - 
+[Debug  :Sideloader] Reloading card [存档用]
+[Debug  :Sideloader] External info count: 12
+[Debug  :Modding API] Character save: 主人公
+[Warning:Modding API] event:OnCardBeingSaved  chara:chaM_001  currentGameMode:Studio
+[Debug  :Animation Controller] Saved KK_AnimationController animations for character 主人公
+[Warning:Modding API] Tried to save card before it was loaded - 
+[Debug  :Sideloader] Reloading card [主人公]
+[Debug  :Sideloader] External info count: 3
+[Warning, Message:Modding API] OnSceneSave
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 151153.
+Total: 647.491400 ms (FindLiveObjects: 10.015700 ms CreateObjectMapping: 1.985900 ms MarkObjects: 634.113200 ms  DeleteObjects: 1.375800 ms)
+
+[Debug  :Modding API] SceneManager.sceneLoaded - StudioNotification in Additive mode
+[Debug  :Modding API] SceneManager.sceneUnloaded - StudioNotification
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 2 Unused Serialized files (Serialized files now loaded: 262)
+
+Unloading 351 unused Assets to reduce memory usage. Loaded Objects now: 129670.
+Total: 664.444400 ms (FindLiveObjects: 8.874300 ms CreateObjectMapping: 2.156600 ms MarkObjects: 648.764500 ms  DeleteObjects: 4.647900 ms)
+
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 0 Unused Serialized files (Serialized files now loaded: 262)
+
+Unloading 368 unused Assets to reduce memory usage. Loaded Objects now: 104287.
+Total: 642.257500 ms (FindLiveObjects: 7.126900 ms CreateObjectMapping: 1.236400 ms MarkObjects: 629.885400 ms  DeleteObjects: 4.008200 ms)
+
+[Debug  :Sideloader] Loading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [AISChaF_20191116194427422举个栗子.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [渭渭-fate-远坂凛.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [渭渭-saber-3.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [渭渭-saber-1.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [渭渭-saber-2.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [阿尔托莉雅▪卡斯特.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [fate-grand-order-玉藻前.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 17
+[Debug  :Sideloader] Loading card [AISChaF_20191130122924738.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [AISChaF_20191130122859831.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [AISChaF_20191130122720326.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 0
+[Debug  :Sideloader] Loading card [HS2ChaF_20210726171505188.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20210523193637503.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115182227086.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115200323197.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [僵尸赖光白皮.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 12
+[Debug  :Sideloader] Loading card [Box_34702.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [ba969837c1e26abc033703810737112d2a4adab0.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 18
+[Debug  :Sideloader] Loading card [AI_116793.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Warning:Sideloader] Outdated zipmod! Some items are missing! - <not set>
+[Warning:Sideloader] [UAR] WARNING! Outdated mod detected! [<not set>]  
+[Debug  :Sideloader] Loading card [AI_116781.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 10
+[Debug  :Sideloader] Missing mod detected [hooh.clothes.hori.skirt000] but matching ID found
+[Debug  :Sideloader] Loading card [五十嵐 美和]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Modding API] Character card load: 五十嵐 美和 
+[Debug  :Sideloader] Loading card [HS2ChaF_20201115200323197.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 1 Unused Serialized files (Serialized files now loaded: 262)
+[Warning:Modding API] event:OnReload  chara:chaF_002  currentGameMode:Studio  maintainState:False
+[Info   :Skin Overlay Mod] Reading legacy overlay data
+[Debug  :Mod Bone Implantor] Removing 93 no longer used implanted bones
+[Debug  :Mod Bone Implantor] Found 13 instances of BoneImplantProcess. In total 93 bones were implanted.
+AdditionalFKNodes: Loaded additional_fknodes TextAsset from chara/Anacs03.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10000	cf_J_Toes_Hallux1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10001	cf_J_Toes_Hallux2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10002	cf_J_Toes_Long1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10003	cf_J_Toes_Long2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10004	cf_J_Toes_Middle1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10005	cf_J_Toes_Middle2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10006	cf_J_Toes_Ring1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10007	cf_J_Toes_Ring2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10008	cf_J_Toes_Pinky1_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10009	cf_J_Toes_Pinky2_R	つま先	5	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10010	cf_J_Toes_Hallux1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10011	cf_J_Toes_Hallux2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10012	cf_J_Toes_Long1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10013	cf_J_Toes_Long2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10014	cf_J_Toes_Middle1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10015	cf_J_Toes_Middle2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10016	cf_J_Toes_Ring1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10017	cf_J_Toes_Ring2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10018	cf_J_Toes_Pinky1_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AdditionalFKNodes: Found matching line for asset p_cf_body_00
+10019	cf_J_Toes_Pinky2_L	つま先	6	1								
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_BP_Alien_Uncensor_B-2.unity3d" (Sideloader Modpack\MyMods\BetterPenetration\[Male][BP][FutaBoy_Animal42069]Alien_Uncensors.zipmod) unity3d file from disk, loading to RAM instead
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_Alien_Uncensor_B-2.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset bp_alien_penis_b2
+bp_alien_penis_b2	cm_J_dan103_00	cm_J_dan105_00	cm_J_dan107_00	k_f_dan_entry	k_f_dan_end
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Sideloader] Cannot stream "abdata/chara/oo_BP_Alien_Uncensor_A-2.unity3d" (Sideloader Modpack\MyMods\BetterPenetration\[Male][BP][FutaBoy_Animal42069]Alien_Uncensors.zipmod) unity3d file from disk, loading to RAM instead
+BonesFramework: Loaded additional_bones TextAsset from chara/oo_BP_Alien_Uncensor_A-2.unity3d
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BonesFramework: Found matching line for asset bp_alien_balls_a2
+bp_alien_balls_a2	cm_J_dan_Pivot_f_L	cm_J_dan_Pivot_f_R	cm_J_dan_Pivot_f_top		
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+The referenced script (NormalData) on this Behaviour is missing!
+ 
+(Filename:  Line: 195)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 294)
+
+
+Unloading 12060 unused Assets to reduce memory usage. Loaded Objects now: 136786.
+Total: 654.900900 ms (FindLiveObjects: 9.184800 ms CreateObjectMapping: 2.705100 ms MarkObjects: 638.256500 ms  DeleteObjects: 4.754000 ms)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :IllusionFixes] Starting full garbage collection
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :Sideloader] Loading card [AI_117168.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [AI_117166.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 14
+[Debug  :Sideloader] Loading card [AI_116733.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [HS2ChaF_20200826205938510.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20210606061637295.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [HS2ChaF_20201118213438847.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [HS2ChaF_20210623192203785.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 1
+[Debug  :Sideloader] Loading card [Box_Chara_23010.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 16
+[Debug  :Sideloader] Loading card [Box_Chara_26348.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [Box_Chara_27107.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 13
+[Debug  :Sideloader] Loading card [Box_Chara_26962.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 14
+[Debug  :Sideloader] Loading card [Box_Chara_25987.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 32
+[Debug  :Sideloader] Loading card [HS2ChaF_20210302011033817.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [Box_Chara_20518.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 3
+[Debug  :Sideloader] Loading card [HS2ChaF_20210512140832472.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20200729211102687.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [HS2ChaF_20200717205803932.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+[Debug  :Sideloader] Loading card [HS2ChaF_20200730005923683.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201229110854963.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 9
+[Debug  :Sideloader] Loading card [HS2ChaF_20200710115316214.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20200731190109155.png]
+[Debug  :Sideloader] No sideloader marker found
+[Debug  :Sideloader] Loading card [HS2ChaF_20201107220646465.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [兔女郎师匠.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 8
+[Debug  :Sideloader] Loading card [HS2ChaF_20201216102450581.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [AISChaF_20200327000727952.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [AISChaF_20200709181400490.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 4
+[Debug  :Sideloader] Loading card [AISChaF_20200608034414670.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 7
+[Debug  :Sideloader] Loading card [AISChaF_20200424235954077.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 16
+[Debug  :Sideloader] Loading card [AISChaF_20200305031818125.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 11
+[Debug  :Sideloader] Loading card [Fate Grand Order 杀阶小玉.png]
+[Debug  :Sideloader] Sideloader marker found, external info count: 5
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 3 Unused Serialized files (Serialized files now loaded: 276)
+[Debug  :Modding API] SceneManager.sceneLoaded - StudioShortcutMenu in Additive mode
+
+Unloading 4872 unused Assets to reduce memory usage. Loaded Objects now: 139928.
+Total: 675.757500 ms (FindLiveObjects: 8.619800 ms CreateObjectMapping: 2.267200 ms MarkObjects: 659.797100 ms  DeleteObjects: 5.072600 ms)
+
+[Debug  :Modding API] SceneManager.sceneUnloaded - StudioShortcutMenu
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 3 Unused Serialized files (Serialized files now loaded: 276)
+[Debug  :Modding API] SceneManager.sceneLoaded - StudioCheck in Additive mode
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 139979.
+Total: 665.296200 ms (FindLiveObjects: 8.303900 ms CreateObjectMapping: 1.823200 ms MarkObjects: 654.974000 ms  DeleteObjects: 0.194500 ms)
+
+[Debug  :Modding API] SceneManager.sceneUnloaded - StudioCheck
+[Debug  :IllusionFixes] Starting unused asset cleanup
+Unloading 0 Unused Serialized files (Serialized files now loaded: 276)
+[Debug  :Modding API] Character save: 渭渭-洛丽塔-白羊
+[Warning:Modding API] event:OnCardBeingSaved  chara:chaF_001  currentGameMode:Studio
+[Debug  :Animation Controller] Saved KK_AnimationController animations for character 渭渭-洛丽塔-白羊
+[Warning:Modding API] Tried to save card before it was loaded - 洛丽塔 -白羊.png
+[Debug  :Sideloader] Reloading card [洛丽塔 -白羊.png]
+[Debug  :Sideloader] External info count: 8
+[Debug  :Modding API] Character save: Tohsaka Rin
+[Warning:Modding API] event:OnCardBeingSaved  chara:chaF_002  currentGameMode:Studio
+[Debug  :Animation Controller] Saved KK_AnimationController animations for character Tohsaka Rin
+[Warning:Modding API] Tried to save card before it was loaded - HS2ChaF_20201115200323197.png
+[Debug  :Sideloader] Reloading card [HS2ChaF_20201115200323197.png]
+[Debug  :Sideloader] External info count: 3
+[Warning, Message:Modding API] OnSceneSave
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 139993.
+Total: 677.844400 ms (FindLiveObjects: 9.079400 ms CreateObjectMapping: 1.932800 ms MarkObjects: 666.632900 ms  DeleteObjects: 0.199000 ms)
+
+[Debug  :Modding API] SceneManager.sceneLoaded - StudioNotification in Additive mode
+[Debug  :Modding API] SceneManager.sceneUnloaded - StudioNotification
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BP Dan Found True; BP Tama Found True
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+

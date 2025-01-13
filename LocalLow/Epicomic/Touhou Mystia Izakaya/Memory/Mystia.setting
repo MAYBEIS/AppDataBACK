@@ -1,0 +1,16 @@
+{
+  "SaveFileVersion": 5,
+  "MusicVol": 0.5,
+  "SfxVol": 0.5,
+  "EnableSpellDecalareCutin": true,
+  "RunInBackground": true,
+  "UseLegacyQTEPannel": false,
+  "UseLegacyThrowDeliver": false,
+  "CurrentResolution": "NATIVE",
+  "FullScreenMode": "FullScreenWindow",
+  "Vsync": true,
+  "TargetRefreshRate": "SCREEEN",
+  "CurrentLanguage": "Chinese",
+  "MusicCalibrationOffset": 0,
+  "CleanMusicGameMode": false
+}

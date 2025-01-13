@@ -1,0 +1,29 @@
+{
+  "Graphics": {
+    "Resolution": {
+      "resolutionText": "1920 x 1080",
+      "width": 1920,
+      "height": 1080
+    },
+    "RefreshRate": {
+      "refreshRateText": "60 Hz",
+      "refreshRate": 60
+    },
+    "VSync": true,
+    "FullScreenMode": 1
+  },
+  "Audio": {
+    "MasterVolume": 1.0,
+    "MusicVolume": 0.8,
+    "SFXVolume": 0.8
+  },
+  "Language": {
+    "GameLanguage": 2
+  },
+  "Accessibility": {
+    "Modifiers": 0
+  },
+  "Gameplay": {
+    "UseMouseAim": false
+  }
+}

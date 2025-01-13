@@ -19,7 +19,10 @@ SKIP_DIRS = ['_gsdata_', 'logs', 'temp']
 SKIP_RELATIVE_PATHS = [
     'Local/Syncthing/_gsdata_',
     'Roaming/IDM/_gsdata_',
-    'Roaming/IDM/DwnlData'
+    'Roaming/IDM/DwnlData',
+    'Local/Steam/htmlcache',
+    'Local/Steam/cefdata'q
+
 ]
 
 def get_appdata_path(folder_type):
