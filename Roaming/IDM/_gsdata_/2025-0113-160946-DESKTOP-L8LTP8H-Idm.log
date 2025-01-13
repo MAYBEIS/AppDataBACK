@@ -1,0 +1,6 @@
+2025-01-13 16:09:46: Expanded 'file:///C:/Users/%USERNAME%.%COMPUTERNAME%/AppData/Roaming/IDM' to 'file:///C:/Users/Administrator.DESKTOP-L8LTP8H/AppData/Roaming/IDM'
+2025-01-13 16:09:46: Expanded 'file:///%GSDISK%/_ProFile/AppData/Roaming/IDM' to 'file:///M:/_ProFile/AppData/Roaming/IDM'
+2025-01-13 16:09:46: -- 分析开始 User Command
+2025-01-13 16:09:46: 变更：7， 冲突：0， 复制时间：0， 复制状态：1， 错误： 0, All: 72
+2025-01-13 16:09:46: Left to Right: Copy File: 7 
+2025-01-13 16:09:46: -- 分析已结束。历时 00:00:00, 速度： Many 文件/秒
