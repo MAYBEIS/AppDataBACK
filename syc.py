@@ -33,18 +33,17 @@ def get_appdata_path(folder_type):
     else:
         return None
 
-def should_skip_relative_path(path, parent_path):
+def should_skip_relative_path(folder_type, company_dir):
     """检查是否应该跳过相对路径"""
-    # 获取相对于父目录的路径
-    relative_path = str(path.relative_to(parent_path))
+    # 构建完整相对路径
+    full_relative_path = f"{folder_type}/{company_dir.name}"
     
     # 将路径统一转换为正斜杠
-    relative_path = relative_path.replace('\\', '/')
+    full_relative_path = full_relative_path.replace('\\', '/')
     
     # 检查是否在跳过列表中
     for skip_path in SKIP_RELATIVE_PATHS:
-        # 只匹配完整的路径段
-        if relative_path.startswith(skip_path.split('/')[-1]):
+        if full_relative_path.startswith(skip_path):
             return True
     return False
 
@@ -74,7 +73,7 @@ def find_and_copy_save_files():
         for company_dir in source_dir.iterdir():
             if company_dir.is_dir():
                 # 检查是否在跳过列表中
-                if company_dir.name in SKIP_DIRS:
+                if company_dir.name in SKIP_DIRS or should_skip_relative_path(folder_type, company_dir):
                     logger.info(f"跳过目录: {folder_type}/{company_dir.name}")
                     continue
                 
@@ -99,11 +98,6 @@ def find_and_copy_save_files():
                     # 复制所有文件
                     i = i+1
                     for save_file in system_save_path.rglob('*'):
-                        # 检查文件路径是否在跳过列表中
-                        if should_skip_relative_path(save_file, system_save_path):
-                            logger.info(f"跳过文件: {save_file}")
-                            continue
-                            
                         try:
                             relative_path = save_file.relative_to(system_save_path)
                             target_path = company_dir / relative_path
