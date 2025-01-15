@@ -1,3 +1,11 @@
 Local/Steam/htmlcache
 Local/Steam/cefdata
 *.log
+Roaming/lx-music-desktop/Cache
+Roaming/lx-music-desktop/logs
+Roaming/lx-music-desktop/Partitions
+Roaming/lx-music-desktop/Session Storage
+Roaming/lx-music-desktop/DawnWebGPUCache
+Roaming/lx-music-desktop/Local Storage
+Roaming/lx-music-desktop/GPUCache
+Roaming/lx-music-desktop/DawnGraphiteCache

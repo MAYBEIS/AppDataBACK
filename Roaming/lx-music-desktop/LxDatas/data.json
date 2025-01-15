@@ -1,0 +1,32 @@
+{
+	"viewPrevState": {
+		"url": "/search",
+		"query": {
+			"source": "all",
+			"type": "music"
+		}
+	},
+	"lastStartInfo": "2.9.0",
+	"listUpdateInfo": {},
+	"listScrollPosition": {
+		"default": 300,
+		"userlist_1729569695575": 0,
+		"love": 0
+	},
+	"listPrevSelectId": "love",
+	"leaderboardSetting": {
+		"source": "kw",
+		"boardId": "kw__16"
+	},
+	"playInfo": {
+		"time": 0,
+		"maxTime": 231.497143,
+		"listId": "love",
+		"index": 0
+	},
+	"songListSetting": {
+		"source": "kw",
+		"sortId": "new",
+		"tagId": ""
+	}
+}
