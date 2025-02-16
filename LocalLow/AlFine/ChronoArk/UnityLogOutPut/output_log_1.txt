@@ -1,0 +1,1564 @@
+Initialize engine version: 2018.4.32f1 (fba45da84107)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   31.0.15.3168
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.097 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.574300 ms
+There is no Master Audio prefab in this Scene. Subsequent method calls will fail.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 12618.
+Total: 46.619100 ms (FindLiveObjects: 0.501500 ms CreateObjectMapping: 0.215700 ms MarkObjects: 45.877100 ms  DeleteObjects: 0.024300 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+로드 : 세이브 파일 감지됨. 세이브 파일 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 로드 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+감지된 일회성 세이브 파일 크기 : 359.56 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 로드 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+LoadTempSave
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+No Playlist Controllers exist in the Scene. Music will not play.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 36)
+UnloadTime: 5.222600 ms
+More than one Master Audio prefab exists in this Scene. Destroying the newer one called 'SoundManager'. You may wish to set up a Bootstrapper Scene so this does not occur.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 15596.
+Total: 62.757000 ms (FindLiveObjects: 0.647800 ms CreateObjectMapping: 0.258900 ms MarkObjects: 61.686800 ms  DeleteObjects: 0.162900 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15596.
+Total: 62.845900 ms (FindLiveObjects: 0.610400 ms CreateObjectMapping: 0.249300 ms MarkObjects: 61.972200 ms  DeleteObjects: 0.013500 ms)
+
+Setting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 38)
+UnloadTime: 3.263700 ms
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 15145.
+Total: 62.699500 ms (FindLiveObjects: 0.502500 ms CreateObjectMapping: 0.224500 ms MarkObjects: 61.579600 ms  DeleteObjects: 0.392500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15145.
+Total: 62.320300 ms (FindLiveObjects: 0.918900 ms CreateObjectMapping: 0.283400 ms MarkObjects: 61.103600 ms  DeleteObjects: 0.014000 ms)
+
+리소스 로드 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 36)
+SpriteAtlasManager.atlasRequested wasn't listened to while Atlas_Field1 requested.
+ 
+(Filename:  Line: 231)
+
+UnloadTime: 0.504200 ms
+ST_Info is null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 2623 unused Assets to reduce memory usage. Loaded Objects now: 20816.
+Total: 71.911300 ms (FindLiveObjects: 0.992900 ms CreateObjectMapping: 0.300200 ms MarkObjects: 69.262600 ms  DeleteObjects: 1.355000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20816.
+Total: 69.853800 ms (FindLiveObjects: 0.849400 ms CreateObjectMapping: 0.272400 ms MarkObjects: 68.706600 ms  DeleteObjects: 0.024800 ms)
+
+After ST_INfo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 560)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20852.
+Total: 70.828800 ms (FindLiveObjects: 0.896900 ms CreateObjectMapping: 0.258700 ms MarkObjects: 69.656500 ms  DeleteObjects: 0.016100 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 359.61 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BeforeMemory: 219.828125 MB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+랜덤 맵 생성 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 45)
+StageSystem StageStart completed, stage key: Stage2_1[2], now date: 2025-01-30 20:19:48
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AfterMemory: 215.5546875 MB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 359.68 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FieldSystem StageStart completed, stage key: Stage2_1[2], now date: 2025-01-30 20:19:48
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 215 unused Assets to reduce memory usage. Loaded Objects now: 78399.
+Total: 95.371000 ms (FindLiveObjects: 3.839300 ms CreateObjectMapping: 0.886200 ms MarkObjects: 90.398400 ms  DeleteObjects: 0.246700 ms)
+
+SpriteAtlasManager.atlasRequested wasn't listened to while Atlas_Field1 requested.
+ 
+(Filename:  Line: 231)
+
+After ST_INfo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 49)
+
+Unloading 116 unused Assets to reduce memory usage. Loaded Objects now: 93716.
+Total: 126.198300 ms (FindLiveObjects: 4.304900 ms CreateObjectMapping: 1.005500 ms MarkObjects: 120.547100 ms  DeleteObjects: 0.340400 ms)
+
+T: 70.8295 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 70.84626 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 89.63365 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 104.726 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 104.7352 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 135.3773 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 139.5498 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 153.5849 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 156.2956 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 183.8531 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 231.7098 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.74 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 366.29 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.79 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 365.71 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BeforeMemory: 240.36328125 MB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+랜덤 맵 생성 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 53)
+StageSystem StageStart completed, stage key: Stage2_Camp[3], now date: 2025-01-30 20:24:28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AfterMemory: 228.33203125 MB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 163.2 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FieldSystem StageStart completed, stage key: Stage2_Camp[3], now date: 2025-01-30 20:24:28
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 1548 unused Assets to reduce memory usage. Loaded Objects now: 100547.
+Total: 130.776000 ms (FindLiveObjects: 5.268200 ms CreateObjectMapping: 1.304200 ms MarkObjects: 119.603800 ms  DeleteObjects: 4.599200 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 53)
+
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 48500.
+Total: 116.174100 ms (FindLiveObjects: 2.443500 ms CreateObjectMapping: 0.703900 ms MarkObjects: 112.732300 ms  DeleteObjects: 0.293800 ms)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 163.91 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BeforeMemory: 234 MB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+랜덤 맵 생성 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 53)
+StageSystem StageStart completed, stage key: Stage_Crimson[3], now date: 2025-01-30 20:25:27
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AfterMemory: 232.73828125 MB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 231.11 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FieldSystem StageStart completed, stage key: Stage_Crimson[3], now date: 2025-01-30 20:25:27
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 63612.
+Total: 122.776600 ms (FindLiveObjects: 3.099100 ms CreateObjectMapping: 1.522900 ms MarkObjects: 117.979900 ms  DeleteObjects: 0.174200 ms)
+
+T: 378.4535 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+After ST_INfo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 53)
+
+Unloading 574 unused Assets to reduce memory usage. Loaded Objects now: 79699.
+Total: 161.330100 ms (FindLiveObjects: 3.402900 ms CreateObjectMapping: 1.217900 ms MarkObjects: 155.970700 ms  DeleteObjects: 0.737700 ms)
+
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+ERROR: Shader Hidden/Nature/Terrain/Utilities shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+T: 492.6856 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 502.8676 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material 00 doesn't have _Stencil property
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material 00 doesn't have _Stencil property
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material 00 doesn't have _Stencil property
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material 00 doesn't have _Stencil property
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 605.5229 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 652.9658 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.89 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.02 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.02 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 56)
+
+Unloading 468 unused Assets to reduce memory usage. Loaded Objects now: 71431.
+Total: 145.666900 ms (FindLiveObjects: 3.989200 ms CreateObjectMapping: 1.320600 ms MarkObjects: 139.404600 ms  DeleteObjects: 0.952100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 56)
+
+Unloading 924 unused Assets to reduce memory usage. Loaded Objects now: 67704.
+Total: 142.442000 ms (FindLiveObjects: 3.293900 ms CreateObjectMapping: 1.089400 ms MarkObjects: 133.927400 ms  DeleteObjects: 4.130800 ms)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.02 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.02 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.05 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.05 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 231 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 734.6101 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 739.3637 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 739.3637 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 739.3637 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 739.3637 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 739.3637 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 739.3637 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+After ST_INfo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 54)
+
+Unloading 710 unused Assets to reduce memory usage. Loaded Objects now: 79953.
+Total: 167.443200 ms (FindLiveObjects: 3.687100 ms CreateObjectMapping: 1.360600 ms MarkObjects: 160.916700 ms  DeleteObjects: 1.478500 ms)
+
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+ERROR: Shader Hidden/Nature/Terrain/Utilities shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+T: 758.7791 - MasterAudio All children of SE_SkillDraw were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 833.3163 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material 00 doesn't have _Stencil property
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Material 00 doesn't have _Stencil property
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 879.7294 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 915.1618 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+T: 992.5808 - MasterAudio All children of SE_SkillTouch were busy. Will not play this sound for this instance.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 56)
+
+Unloading 1250 unused Assets to reduce memory usage. Loaded Objects now: 67901.
+Total: 151.571600 ms (FindLiveObjects: 3.415900 ms CreateObjectMapping: 1.337900 ms MarkObjects: 141.247400 ms  DeleteObjects: 5.569700 ms)
+
+Uploading Crash Report
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 56)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 40038.
+Total: 133.784900 ms (FindLiveObjects: 1.839400 ms CreateObjectMapping: 0.624500 ms MarkObjects: 131.251600 ms  DeleteObjects: 0.068800 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_transform(UnityEngine.Component)
+  at StageSystem.LateUpdate () [0x0003f] in <7f9830fc2d01419287a59cdf773cd7ce>:0 
+ 
+(Filename: <7f9830fc2d01419287a59cdf773cd7ce> Line: 0)
+
+일회성 세이브 작성 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.05 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.05 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.09 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.09 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 파싱 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 229.56 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+QuitSave: 2025-01-30 20:36:40
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+

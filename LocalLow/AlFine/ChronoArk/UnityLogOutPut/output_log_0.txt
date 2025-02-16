@@ -1,0 +1,895 @@
+Initialize engine version: 2018.4.32f1 (fba45da84107)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   (null)
+    VRAM:     3072 MB
+    Driver:   31.0.15.3168
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.096 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.614500 ms
+There is no Master Audio prefab in this Scene. Subsequent method calls will fail.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 12618.
+Total: 46.354500 ms (FindLiveObjects: 0.615800 ms CreateObjectMapping: 0.159800 ms MarkObjects: 45.551900 ms  DeleteObjects: 0.026300 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+로드 : 세이브 파일 감지됨. 세이브 파일 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 로드 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+감지된 일회성 세이브 파일 크기 : 229.52 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 로드 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+LoadTempSave
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+No Playlist Controllers exist in the Scene. Music will not play.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 36)
+UnloadTime: 7.601900 ms
+More than one Master Audio prefab exists in this Scene. Destroying the newer one called 'SoundManager'. You may wish to set up a Bootstrapper Scene so this does not occur.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 15575.
+Total: 63.441300 ms (FindLiveObjects: 0.724500 ms CreateObjectMapping: 0.235800 ms MarkObjects: 62.321100 ms  DeleteObjects: 0.159000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15575.
+Total: 62.889400 ms (FindLiveObjects: 0.720700 ms CreateObjectMapping: 0.233100 ms MarkObjects: 61.921400 ms  DeleteObjects: 0.013400 ms)
+
+일회성 세이브 작성 완료 파일크기 : 8.71 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 작성 완료 파일크기 : 8.71 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 38)
+UnloadTime: 3.526100 ms
+
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 15145.
+Total: 62.146200 ms (FindLiveObjects: 0.645400 ms CreateObjectMapping: 0.237300 ms MarkObjects: 60.798000 ms  DeleteObjects: 0.464800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 15145.
+Total: 61.914500 ms (FindLiveObjects: 0.635800 ms CreateObjectMapping: 0.288500 ms MarkObjects: 60.976600 ms  DeleteObjects: 0.013400 ms)
+
+리소스 로드 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 36)
+SpriteAtlasManager.atlasRequested wasn't listened to while Atlas_Field1 requested.
+ 
+(Filename:  Line: 231)
+
+UnloadTime: 0.381800 ms
+ST_Info is null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 2623 unused Assets to reduce memory usage. Loaded Objects now: 20816.
+Total: 70.189900 ms (FindLiveObjects: 0.984700 ms CreateObjectMapping: 0.311500 ms MarkObjects: 67.548800 ms  DeleteObjects: 1.344300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20816.
+Total: 70.314900 ms (FindLiveObjects: 0.888600 ms CreateObjectMapping: 0.320700 ms MarkObjects: 69.079900 ms  DeleteObjects: 0.025100 ms)
+
+After ST_INfo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 560)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 20852.
+Total: 68.193200 ms (FindLiveObjects: 0.878400 ms CreateObjectMapping: 0.260200 ms MarkObjects: 67.038000 ms  DeleteObjects: 0.016000 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 302 unused Assets to reduce memory usage. Loaded Objects now: 29518.
+Total: 83.090200 ms (FindLiveObjects: 1.230400 ms CreateObjectMapping: 0.432800 ms MarkObjects: 80.832300 ms  DeleteObjects: 0.594200 ms)
+
+false
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 29549.
+Total: 84.619700 ms (FindLiveObjects: 1.217900 ms CreateObjectMapping: 0.423900 ms MarkObjects: 82.911200 ms  DeleteObjects: 0.066100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 29555.
+Total: 83.327000 ms (FindLiveObjects: 1.185500 ms CreateObjectMapping: 0.540900 ms MarkObjects: 81.513300 ms  DeleteObjects: 0.086600 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.95 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 43.99 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 43.99 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 43.99 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 43.99 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.06 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.06 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.06 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.06 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.14 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.14 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.14 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.14 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.21 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.21 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.21 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.21 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.29 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.29 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.29 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.29 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.35 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.35 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.35 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.35 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.45 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.45 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.45 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.45 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.55 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.55 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.55 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.55 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.65 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.65 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.65 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.65 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.75 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.75 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+false
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.75 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.75 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.62 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.62 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 41)
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 31747.
+Total: 90.937800 ms (FindLiveObjects: 1.304600 ms CreateObjectMapping: 0.488000 ms MarkObjects: 89.002300 ms  DeleteObjects: 0.142600 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.62 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.62 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.67 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.67 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.67 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.67 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.7 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.7 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.7 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.7 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.73 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.73 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.73 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.73 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.77 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.77 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.77 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.77 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.8 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.8 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.8 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.8 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+<color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 41)
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 31304.
+Total: 86.170800 ms (FindLiveObjects: 1.301600 ms CreateObjectMapping: 0.459200 ms MarkObjects: 84.251500 ms  DeleteObjects: 0.158000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 41)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 31299.
+Total: 87.623200 ms (FindLiveObjects: 1.526000 ms CreateObjectMapping: 0.452300 ms MarkObjects: 85.499600 ms  DeleteObjects: 0.145000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 41)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 31839.
+Total: 89.760400 ms (FindLiveObjects: 1.263900 ms CreateObjectMapping: 0.454700 ms MarkObjects: 87.939900 ms  DeleteObjects: 0.101400 ms)
+
+false
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 41)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 31899.
+Total: 89.417100 ms (FindLiveObjects: 1.316700 ms CreateObjectMapping: 0.476000 ms MarkObjects: 87.582500 ms  DeleteObjects: 0.041400 ms)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1.sav 백업파일남김 시작 현재 세이브 파일의 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+C:/Users/Administrator/AppData/LocalLow/AlFine/ChronoArk/Save1BackUp/Save1BackUp 백업파일 카피완료 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+세이브 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 검사 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+기존 세이브 파일 딜리트 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+새 세이브 파일 이동 후 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+로드 : 세이브 파일 감지됨. 세이브 파일 크기 : 44.83 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 로드 시작
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+감지된 일회성 세이브 파일 크기 : 8.72 KB
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+일회성 세이브 로드 완료
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+LoadTempSave
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 3929 unused Assets to reduce memory usage. Loaded Objects now: 27472.
+Total: 95.660700 ms (FindLiveObjects: 1.322400 ms CreateObjectMapping: 0.475300 ms MarkObjects: 87.295800 ms  DeleteObjects: 6.566700 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 36)
+UnloadTime: 2.629900 ms
+More than one Master Audio prefab exists in this Scene. Destroying the newer one called 'SoundManager'. You may wish to set up a Bootstrapper Scene so this does not occur.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 3813 unused Assets to reduce memory usage. Loaded Objects now: 27066.
+Total: 94.502700 ms (FindLiveObjects: 1.243900 ms CreateObjectMapping: 0.437400 ms MarkObjects: 86.305500 ms  DeleteObjects: 6.515200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 27066.
+Total: 87.894900 ms (FindLiveObjects: 1.119200 ms CreateObjectMapping: 0.377500 ms MarkObjects: 86.376700 ms  DeleteObjects: 0.020800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 36)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 23804.
+Total: 86.525100 ms (FindLiveObjects: 1.041700 ms CreateObjectMapping: 0.312500 ms MarkObjects: 85.150200 ms  DeleteObjects: 0.019700 ms)
+
+QuitSave: 2025-01-30 20:44:10
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
