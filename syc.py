@@ -64,11 +64,12 @@ def find_and_copy_save_files():
     supported_types = ['Local', 'LocalLow', 'Roaming', 'Document']
 
     # 询问是否使用一键默认
-    auto_mode = input("是否使用一键默认模式？(y/n): ").lower() == 'y'
+    # auto_mode = input("是否使用一键默认模式？(y/n): ").lower() == 'y'
+    auto_mode = True
 
     i = 0
     # 获取当前时间戳
-    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+    timestamp = datetime.now().strftime("%Y%m%d_%H.%M.%S")
     new_appdata_dir = current_appdata_dir.parent / f"AppData_{timestamp}"
 
     # 遍历每个目录类型
@@ -122,7 +123,8 @@ def find_and_copy_save_files():
                             target_path = target_dir / relative_path
                             target_path.parent.mkdir(parents=True, exist_ok=True)
                             if save_file.is_file():
-                                shutil.copy(save_file, target_path)
+                                # 使用 shutil.copy2 来保留文件元数据
+                                shutil.copy2(save_file, target_path)
                                 logger.info(f"已复制: {save_file.name}")
                         except Exception as e:
                             logger.error(f"复制失败: {save_file.name} - {str(e)}")
