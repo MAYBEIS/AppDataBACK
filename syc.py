@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # 跳过复制的目录列表
-SKIP_DIRS = ['_gsdata_', 'logs', 'temp']
+SKIP_DIRS = ['_gsdata_', 'logs', 'temp', "runtime"]
 
 # 通过相对位置跳过的文件夹列表y
 SKIP_RELATIVE_PATHS = [
@@ -21,7 +21,7 @@ SKIP_RELATIVE_PATHS = [
     'Roaming/IDM/_gsdata_',
     'Roaming/IDM/DwnlData',
     'Local/Steam/htmlcache',
-    'Local/Steam/cefdata'q
+    'Local/Steam/cefdata'
 
 ]
 
