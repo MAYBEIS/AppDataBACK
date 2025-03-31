@@ -22,19 +22,20 @@ SKIP_RELATIVE_PATHS = [
     'Roaming/IDM/_gsdata_',
     'Roaming/IDM/DwnlData',
     'Local/Steam/htmlcache',
-    'Local/Steam/cefdata',
-    'Roaming/Adobe'
+    'Local/Steam/cefdata'
 ]
 
 
 def get_appdata_path(folder_type):
-    """根据文件夹类型获取系统AppData路径"""
+    """根据文件夹类型获取系统对应路径"""
     if folder_type == 'Local':
         return Path(os.getenv('LOCALAPPDATA'))
     elif folder_type == 'LocalLow':
         return Path(os.getenv('LOCALAPPDATA')).parent / 'LocalLow'
     elif folder_type == 'Roaming':
         return Path(os.getenv('APPDATA'))
+    elif folder_type == 'Document':
+        return Path(os.path.expanduser('~/Documents'))
     else:
         return None
 
@@ -56,24 +57,24 @@ def should_skip_relative_path(path, parent_path):
 
 
 def find_and_copy_save_files():
-    # 获取当前目录
-    current_dir = Path.cwd()
+    # 获取当前目录下的AppData文件夹
+    current_appdata_dir = Path.cwd() / 'AppData'
 
     # 支持的目录类型
-    supported_types = ['Local', 'LocalLow', 'Roaming']
+    supported_types = ['Local', 'LocalLow', 'Roaming', 'Document']
 
     # 询问是否使用一键默认
     auto_mode = input("是否使用一键默认模式？(y/n): ").lower() == 'y'
 
     i = 0
     # 获取当前时间戳
-    timestamp = datetime.now().strftime("%Y%m%d_%H.%M.%S")
-    new_appdata_dir = current_dir / f"AppData_{timestamp}"
+    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+    new_appdata_dir = current_appdata_dir.parent / f"AppData_{timestamp}"
 
     # 遍历每个目录类型
     for folder_type in supported_types:
-        # 检查当前目录下是否存在该类型目录
-        source_dir = current_dir / folder_type
+        # 检查当前AppData目录下是否存在该类型目录
+        source_dir = current_appdata_dir / folder_type
         if not source_dir.exists():
             logger.info(f"未找到{folder_type}目录，跳过")
             continue
