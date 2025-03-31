@@ -9,7 +9,8 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     filename='syc.log',
-    filemode='w'
+    filemode='w',
+    encoding='utf-8'
 )
 logger = logging.getLogger(__name__)
 
