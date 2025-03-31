@@ -1,5 +1,0 @@
-{
-    "MSBuildPath": "",
-    "dnSpyPath": "",
-    "ConsoleConfig": "[LogShowLog][AssertShowLog][WarningShowLog][ErrorShowLog][ExceptionShowLog][ExceptionShowStackTrace]"
-}

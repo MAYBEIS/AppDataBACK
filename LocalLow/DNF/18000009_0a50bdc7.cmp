@@ -1,6 +1,0 @@
-<CrashDump version='1'>
-  <Processs timestamp='0x51c3ccf7'/>
-  <Exception code='0xc0000005' where='0xc0000005' violationAddr='0x76cfa3a1'/>
-  <CallStack eip='0x76cfa3a1' checksum='0x00000000'>
-  </CallStack>
-</CrashDump>
