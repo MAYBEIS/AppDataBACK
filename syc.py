@@ -23,7 +23,8 @@ SKIP_RELATIVE_PATHS = [
     'Roaming/IDM/_gsdata_',
     'Roaming/IDM/DwnlData',
     'Local/Steam/htmlcache',
-    'Local/Steam/cefdata'
+    'Local/Steam/cefdata',
+    "Roaming/obsplus/runtime"
 ]
 
 
