@@ -1,6 +1,5 @@
 Local/Steam/htmlcache
 Local/Steam/cefdata
-*.log
 Roaming/lx-music-desktop/Cache
 Roaming/lx-music-desktop/logs
 Roaming/lx-music-desktop/Partitions
@@ -23,5 +22,5 @@ AppData_*
 *.log
 .venv/
 syc.log
-syc.log
 undefineBack
+
