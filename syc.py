@@ -24,7 +24,8 @@ SKIP_RELATIVE_PATHS = [
     'Roaming/IDM/DwnlData',
     'Local/Steam/htmlcache',
     'Local/Steam/cefdata',
-    "Roaming/obsplus/runtime"
+    "Roaming/obsplus/runtime",
+    "Roaming/Adobe/Common"
 ]
 
 
